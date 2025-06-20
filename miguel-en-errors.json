@@ -23,4 +23,60 @@
     "source": "Spontaneous",
     "verified": true
   }
+  {
+  "id": 3,
+  "date": "2025-06-20",
+  "error_sentence": "¿Puedes escribir en español?",
+  "correction_1": "Can you write in Spanish?",
+  "correction_2": "Could you write in Spanish?",
+  "error_type": "Vocabulary",
+  "comment": "Spanish sentence detected; it's asking the assistant to switch languages.",
+  "status": "New",
+  "source": "Spontaneous",
+  "verified": true
+}
+{
+  "id": 4,
+  "date": "2025-06-20",
+  "error_sentence": "I'm cooling my head a little bit.",
+  "correction_1": "I'm cooling off a little bit.",
+  "correction_2": "I'm trying to relax a little bit.",
+  "error_type": "Vocabulary",
+  "comment": "The phrase 'cooling my head' is unnatural in English; use 'cool off' or express relaxing instead.",
+  "status": "New",
+  "source": "Spontaneous",
+  "verified": true
+}
+
+{
+  "id": 5,
+  "date": "2025-06-20",
+  "error_sentence": "Can you write in Spanish?",
+  "correction_1": "Can you speak in Spanish?",
+  "correction_2": "Could you answer me in Spanish?",
+  "error_type": "Vocabulary",
+  "comment": "Though grammatically fine, in this context it was part of code-switching. Treated as an error because it breaks immersion.",
+  "status": "New",
+  "source": "Spontaneous",
+  "verified": true
+}
+
+
+
+{
+  "id": 6,
+  "date": "2025-06-20",
+  "error_sentence": "Escribe en español. Me acaban de preguntar que si yo vendo canela.",
+  "correction_1": "Write in Spanish. They just asked me if I sell cinnamon.",
+  "correction_2": "Please write in Spanish. Someone just asked me if I sell cinnamon.",
+  "error_type": "Vocabulary",
+  "comment": "This is a direct Spanish phrase. Converted to proper English with natural expressions.",
+  "status": "New",
+  "source": "Spontaneous",
+  "verified": true
+}
+
+
+
+
 ]
