@@ -20,13 +20,27 @@ This project is designed to:
 
 ## 📁 Structure
 
-| File / Folder              | Description                                                      |
-|----------------------------|------------------------------------------------------------------|
-| `errors.json`              | The main database of my personal English errors                 |
-| `/prompts/`                | AI prompt templates for each stage of the learning process      |
-| `README.md`                | This file: documentation and system overview                   |
-| *(coming soon)* `/scripts/`| Python or JS tools to manage, analyze, or visualize the data    |
+| File / Folder                        | Description                                                           |
+|-------------------------------------|------------------------------------------------------------------------|
+| `miguel-en-errors.json`             | The main file. A growing database of my personal English mistakes.     |
+| `miguel-en-errors.backup.2024-06-19.json` | Backup copy of the database as of June 19, 2024.                 |
+| `/prompts/`                         | AI prompt templates for each stage of the learning process             |
+| `README.md`                         | Project documentation and system overview.                             |
+| *(coming soon)* `/scripts/`         | For Python or JS tools that help manage or test the data.              |
 
+
+---
+
+## 🔗 Accessing the JSON Error Log
+
+You can access the live error log directly using the raw GitHub URL below.  
+This URL is useful for AI prompts, scripts, or tools that need to read the personalized mistake data in real-time:
+https://raw.githubusercontent.com/Miguelepst/personal-englsih-system/main/miguel-en-errors.json
+
+> 💡 This is the recommended format for accessing raw files in GitHub.  
+It avoids longer versions like `/refs/heads/` and works better with external systems.
+
+If you're using this link in a script or AI assistant, just make sure your tool can read `.json` from a public URL.
 ---
 
 ## 🧩 System Stages
@@ -85,7 +99,38 @@ If you’re an educator, language learner, or developer interested in collaborat
 
 ---
 
-## 📬 Maintainer
+## 📬 Maintainer & Contact
 
-This system is developed by **Miguel Gutiérrez**, as part of a personal mission to improve English fluency through real-world usage and AI-driven learning.
+This project is maintained by **Miguel Gutiérrez** as part of a personal and strategic mission to improve English fluency through real-world usage, AI feedback, and intentional practice.
+
+If you'd like to:
+
+- Ask questions about the system
+- Share feedback or ideas
+- Collaborate on tools, prompts, or methodology
+- Adapt this system for your own learning
+
+Feel free to open an issue on the GitHub repository  
+or contact me directly: **[your_email_here]** (optional)
+
+
+---
+
+## 🧰 Backup Management
+
+To understand how and when to create backups of your error log, please refer to the [📄 Backup Guide](./BACKUP_GUIDE.md).
+
+This guide includes:
+
+- 📦 Naming conventions
+- 🔁 When to create backups
+- 🛠 How to restore a backup safely
+- 💡 Best practices to keep your data safe
+
+Keeping regular backups ensures you never lose your learning progress.
+
+
+📘 Want to learn more about how the system works in detail?  
+Check the full methodology here → [/docs/full-methodology.md](./docs/full-methodology.md)
+
 

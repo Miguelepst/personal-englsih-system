@@ -1,20 +1,26 @@
 [
   {
     "id": 1,
-    "fecha": "2025-06-20",
-    "frase_con_error": "I keep practice my English.",
-    "correccion": "I keep practicing my English.",
-    "tipo": "gramática - gerundio",
-    "comentario": "Después de 'keep', el verbo debe ir en -ing.",
-    "estado": "Nuevo"
+    "date": "2025-06-20",
+    "error_sentence": "I keep practice my English.",
+    "correction_1": "I keep practicing my English.",
+    "correction_2": "I'm going to keep practicing my English.",
+    "error_type": "Grammar - Gerund",
+    "comment": "After 'keep', the verb must be in -ing form.",
+    "status": "New",
+    "source": "Spontaneous",
+    "verified": true
   },
   {
     "id": 2,
-    "fecha": "2025-06-20",
-    "frase_con_error": "Even though I'm speaking Spanish...",
-    "correccion": "Even though I'm speaking in Spanish...",
-    "tipo": "vocabulario - preposición omitida",
-    "comentario": "Falta la preposición 'in' para referirse al idioma.",
-    "estado": "Nuevo"
+    "date": "2025-06-20",
+    "error_sentence": "Even though I'm speaking Spanish...",
+    "correction_1": "Even though I'm speaking in Spanish...",
+    "correction_2": "Even though I'm using Spanish to talk...",
+    "error_type": "Vocabulary - Missing Preposition",
+    "comment": "We usually say 'in Spanish' when talking about the language.",
+    "status": "New",
+    "source": "Spontaneous",
+    "verified": true
   }
 ]
