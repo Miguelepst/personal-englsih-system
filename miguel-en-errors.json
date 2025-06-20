@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "fecha": "2025-06-20",
+    "frase_con_error": "I keep practice my English.",
+    "correccion": "I keep practicing my English.",
+    "tipo": "gramática - gerundio",
+    "comentario": "Después de 'keep', el verbo debe ir en -ing.",
+    "estado": "Nuevo"
+  },
+  {
+    "id": 2,
+    "fecha": "2025-06-20",
+    "frase_con_error": "Even though I'm speaking Spanish...",
+    "correccion": "Even though I'm speaking in Spanish...",
+    "tipo": "vocabulario - preposición omitida",
+    "comentario": "Falta la preposición 'in' para referirse al idioma.",
+    "estado": "Nuevo"
+  }
+]
