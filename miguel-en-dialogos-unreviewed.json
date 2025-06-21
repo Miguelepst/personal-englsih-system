@@ -88,9 +88,20 @@
   "content": "Hello, Loora. Nice to meet you. My name is Miguel. I'm from Colombia, Latin America. It's a pleasure to meet you. Thank you.",
   "source": "Loora",
   "status": "Raw",
-  "description": "Simple self-introduction at the beginning of spontaneous practice.",
+  "description": "Simple self-introduction at the beginning of spontaneous practice. #1Loora",
+  "example_record": false
+},
+
+{
+  "id": 11,
+  "date": "2025-06-21",
+  "content": "Well, I was born here. I don't know other countries abroad, but I like everything, I think so.",
+  "source": "Loora, #1loora",
+  "status": "Raw",
+  "description": "First spontaneous reflection about travel.",
   "example_record": false
 }
+
 
 
 
