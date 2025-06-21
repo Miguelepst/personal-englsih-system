@@ -80,6 +80,16 @@
   "status": "Raw",
   "description": "Spontaneous reflection about how to improve example records in the dialogue database.",
   "example_record": false
+},
+
+{
+  "id": 10,
+  "date": "2025-06-21",
+  "content": "Hello, Loora. Nice to meet you. My name is Miguel. I'm from Colombia, Latin America. It's a pleasure to meet you. Thank you.",
+  "source": "Loora",
+  "status": "Raw",
+  "description": "Simple self-introduction at the beginning of spontaneous practice.",
+  "example_record": false
 }
 
 
