@@ -71,4 +71,19 @@
     "description": "Recorded after reading an article and sharing thoughts aloud. Reflective and informative tone.",
     "example_record": true
   }
+
+  {
+  "id": 9,
+  "date": "2025-06-20",
+  "content": "But as it is a comment, I think that within the description we could also explain the value of the state, to understand the mentioning of the register, by saying something, explain what the state of RAW means, the state of the other states, or possible states that can be applied. What do you think? According to these example records, right? Because the idea is that these example records serve to better understand the structure of the database, the data, and its possible values that it can contain. That's it.",
+  "source": "ChatGPT",
+  "status": "Raw",
+  "description": "Spontaneous reflection about how to improve example records in the dialogue database.",
+  "example_record": false
+}
+
+
+
+
+
 ]

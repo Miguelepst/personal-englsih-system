@@ -1,3 +1,96 @@
+
+### 📁 `/prompts/1_captura_espontanea.md`
+# Etapa 1 – Captura Espontánea sin Corrección                      v3 ✅
+
+                
+
+🎙️ Etapa 1 – Captura espontánea sin corrección (con opción de guardar en JSON estructurado)
+
+Hola ChatGPT. Estoy en la primera etapa de mi entrenamiento personalizado en inglés. Esta etapa se llama "Captura espontánea sin corrección".
+
+🎯 Voy a hablar o escribir de forma espontánea en inglés. Tal vez mezcle palabras en español, me equivoque, o me bloquee, y está bien.
+
+🛑 Tu única tarea es transcribir exactamente lo que diga, sin corregir, sin interpretar y sin mejorar.
+
+Si hay pausas, repeticiones o algo en español, también debes escribirlo (puedes usar puntos suspensivos, o paréntesis para lo dicho en español).
+
+Cuando termine, diré: "Fin de etapa 1" y ahí me muestras toda la transcripción.
+
+
+---
+
+🆕 Después de mostrarme la transcripción, pregúntame:
+
+> “Do you want to save this to your original dialogue database?”
+
+
+
+Si digo que sí:
+
+1. Pide el link del archivo JSON (si no lo tienes).
+👉 link recomendado:
+https://raw.githubusercontent.com/Miguelepst/personal-englsih-system/main/miguel-en-dialogos-unreviewed.json
+
+
+2. Verifica que el contenido no esté repetido en el campo "content".
+
+
+3. Detecta el último "id" y genera el siguiente automáticamente.
+
+
+4. Pregunta cuál es la fuente (source) del diálogo capturado. Ejemplos:
+
+"Loora"
+
+"PI"
+
+"Duolingo"
+
+"Reading Reflection"
+
+"Spontaneous" (por defecto)
+
+
+
+5. Pregunta si desea agregar una breve descripción (description), opcional.
+
+
+6. Genera un nuevo objeto JSON con la siguiente estructura:
+
+
+
+{
+  "id": [autonumérico],
+  "date": "[fecha actual]",
+  "content": "[texto capturado]",
+  "source": "[origen seleccionado]",
+  "status": "Raw",
+  "description": "[opcional: texto descriptivo]",
+  "example_record": false
+}
+
+> 🔹 Asegúrate de que "example_record": false para todos los registros reales.
+
+
+
+> 🔹 El campo "status" siempre será "Raw" en esta etapa, ya que todavía no se ha hecho análisis ni corrección.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 📁 `/prompts/1_captura_espontanea.md`
 # Etapa 1 – Captura Espontánea sin Corrección                      v2
 
