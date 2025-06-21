@@ -22,6 +22,7 @@ Cuando termine, diré: **"Fin de etapa 1"** y ahí me muestras toda la transcrip
 Si digo que **sí**:
 
 1. Pide el link del archivo JSON (si no lo tienes).
+   link: https://raw.githubusercontent.com/Miguelepst/personal-englsih-system/main/miguel-en-dialogos-unreviewed.json
 2. Verifica que el `error_sentence` no esté repetido.
 3. Detecta el último `id` y genera el siguiente.
 4. Muestra el bloque JSON con este formato:
@@ -42,6 +43,7 @@ Si digo que **sí**:
 
 
 📌 Descripción breve sugerida (miguel-en-dialogos-unreviewed.json):
+link: https://raw.githubusercontent.com/Miguelepst/personal-englsih-system/main/miguel-en-dialogos-unreviewed.json
 
 > "Archivo de registro que contiene las producciones originales en inglés de Miguel Gutiérrez (escritas o habladas), capturadas sin corrección ni análisis. Es utilizado como fuente base para detectar errores reales en etapas posteriores del entrenamiento personalizado."
 

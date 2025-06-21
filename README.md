@@ -22,8 +22,11 @@ This project is designed to:
 
 | File / Folder                        | Description                                                           |
 |-------------------------------------|------------------------------------------------------------------------|
-| `miguel-en-errors.json`             | The main file. A growing database of my personal English mistakes.     |
-| `miguel-en-errors.backup.2024-06-19.json` | Backup copy of the database as of June 19, 2024.                 |
+| `miguel-en-errors.json`                  | The main file. A growing database of my personal English mistakes.     |
+| `miguel-en-errors.backup.2024-06-19.json`| Backup copy of the database as of June 19, 2024.                       |
+| `miguel-en-dialogos-unreviewed.json`     | Raw, unreviewed English dialogues captured as-is (no corrections).     |
+
+
 | `/prompts/`                         | AI prompt templates for each stage of the learning process             |
 | `README.md`                         | Project documentation and system overview.                             |
 | *(coming soon)* `/scripts/`         | For Python or JS tools that help manage or test the data.              |
@@ -68,7 +71,12 @@ This stage tracks what’s been practiced and updates the status of each error. 
 ### 5. 🔴 Certification & Evaluation
 In this final stage, AI challenges me to prove I’ve mastered specific errors. Only after successfully passing is an error marked `"Corregido"`.
 
+> 🔎 Note: The file `miguel-en-dialogos-unreviewed.json` stores spontaneous English samples before analysis.  
+> It serves as the **raw source** for identifying real mistakes in Stage 2.
+
 ---
+
+
 
 ## 🧠 Philosophy
 

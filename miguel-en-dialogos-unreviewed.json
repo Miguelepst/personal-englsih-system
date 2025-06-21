@@ -2,15 +2,73 @@
   {
     "id": 1,
     "date": "2025-06-20",
-    "source": "Spoken",
-    "content": "I'm walking and... and now I'm looking for the keys... pero no las encuentro yet.",
-    "notes": "Spontaneous speech. Includes a code-switch to Spanish."
+    "content": "I like go to the market yesterday because it was many peoples and I buyed mangoes.",
+    "source": "Loora",
+    "status": "Raw",
+    "description": "Example of a short spoken sentence captured during a spontaneous Loora session.",
+    "example_record": true
   },
   {
     "id": 2,
     "date": "2025-06-20",
-    "source": "Written",
-    "content": "Today I feel very tired because I don’t sleep well last night and my head is like... boom!",
-    "notes": "Written expression. Raw capture, includes informal metaphor and grammar errors."
+    "content": "When I was kid, I always wanted to be a astronaut, but now I changed my mind because I think is difficult and not so fun like before I thinking.",
+    "source": "Duolingo",
+    "status": "Raw",
+    "description": "Early example captured while speaking out loud during Duolingo speaking exercise.",
+    "example_record": true
+  },
+  {
+    "id": 3,
+    "date": "2025-06-20",
+    "content": "So... um... I was thinking like... maybe I can... (¿cómo se dice cambiar de trabajo?)... change the job? Because... I don’t feel good in my current one... and the people there... eh... is not very nice.",
+    "source": "PI",
+    "status": "Raw",
+    "description": "Spontaneous reflection while practicing with the PI app. Contains hesitation and code-switching.",
+    "example_record": true
+  },
+  {
+    "id": 4,
+    "date": "2025-06-20",
+    "content": "Yesterday I go to my friend’s house and we eat pizza and watching movies and after that I sleep there.",
+    "source": "Reading Reflection",
+    "status": "Raw",
+    "description": "Narration of a past event as part of a reading reflection exercise. Simple past confusion.",
+    "example_record": true
+  },
+  {
+    "id": 5,
+    "date": "2025-06-20",
+    "content": "This morning, I waked up very late because my alarm no ring and then I run to the job but the boss was not angry, he was smiling because also he arrive late.",
+    "source": "Loora",
+    "status": "Raw",
+    "description": "Captured as a long spoken story during Loora session. Grammar and verb errors preserved intentionally.",
+    "example_record": true
+  },
+  {
+    "id": 6,
+    "date": "2025-06-20",
+    "content": "My sister have a dog and she like to play with it every days. It is name is Coco and he is very playful but sometimes he barks a lot and scares the neighbors.",
+    "source": "Duolingo",
+    "status": "Raw",
+    "description": "Example from Duolingo spontaneous task. Keeps tense and article mistakes intact.",
+    "example_record": true
+  },
+  {
+    "id": 7,
+    "date": "2025-06-20",
+    "content": "I’m very tired because I working all day and not rest and now I just want eat and sleep, but I forget buy food. That is bad.",
+    "source": "Spontaneous Reflection",
+    "status": "Raw",
+    "description": "Captured while reflecting out loud at the end of the day. Includes exhaustion, verb usage and cohesion issues.",
+    "example_record": true
+  },
+  {
+    "id": 8,
+    "date": "2025-06-20",
+    "content": "Today I read a article about the climate change and it say that we need do something fast because the Earth is in danger and many animals is disappearing.",
+    "source": "Reading Reflection",
+    "status": "Raw",
+    "description": "Recorded after reading an article and sharing thoughts aloud. Reflective and informative tone.",
+    "example_record": true
   }
 ]
