@@ -128,6 +128,15 @@
   "status": "Raw",
   "description": "Spontaneous reflection about favorite modern movies, including Matrix and the science fiction genre.",
   "example_record": false
+},
+{
+  "id": 15,
+  "date": "2025-06-21",
+  "content": "Well, it's so interesting because it's like a reality, well, a little exaggerating reality, but maybe in the future, maybe that happens. I don't know.",
+  "source": "Loora #1",
+  "status": "Raw",
+  "description": "Spontaneous opinion about the realistic aspects of science fiction and its possible connection to the future.",
+  "example_record": false
 }
 
 
