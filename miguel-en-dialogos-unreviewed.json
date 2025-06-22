@@ -137,6 +137,16 @@
   "status": "Raw",
   "description": "Spontaneous opinion about the realistic aspects of science fiction and its possible connection to the future.",
   "example_record": false
+},
+
+{
+  "id": 16,
+  "date": "2025-06-21",
+  "content": "Lately I saw several movies, like romance movies. I like it as well so much. For example, recently I saw the movie called Before Sunrise. It's like a beautiful movie. I don't know if you know about that movie, Before Sunrise. It's a romance movie.",
+  "source": "Loora #1",
+  "status": "Raw",
+  "description": "Spontaneous reflection on recently watched romance films, highlighting 'Before Sunrise' as a favorite.",
+  "example_record": false
 }
 
 
