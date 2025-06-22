@@ -149,12 +149,21 @@
   "example_record": false
 },
 {
-  "id": 15,
+  "id": 17,
   "date": "2025-06-21",
   "content": "and another movie that I saw today it was the notebook is another romance movie so beautiful as well",
   "source": "Loora #1",
   "status": "Raw",
   "description": "Spontaneous reflection about watching romantic movies, specifically mentioning 'The Notebook'.",
+  "example_record": false
+},
+{
+  "id": 18,
+  "date": "2025-06-21",
+  "content": "well another movie is like before before sunrise before sunrise and in that I remember that is saying that I like it for example it was when the boy tried to go to the girl that I like it and he tried to get up in the rollercoaster not not not really rollercoaster it's like part of the diversions but I don't remember the name of that attraction but it was a little dangerous because he tried to tell her that he wanted to go out with her but he tried to suicide but only joking I don't know if you know about that the same of the before sunrise I think",
+  "source": "Loora #1",
+  "status": "Raw",
+  "description": "Spontaneous description of a dramatic scene from a romance movie, with confusion about the attraction and plot details.",
   "example_record": false
 }
 
