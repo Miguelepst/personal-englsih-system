@@ -1,4 +1,114 @@
 
+
+
+### 📁 `/prompts/1_captura_espontanea.md`
+# Etapa 1 – Captura Espontánea sin Corrección                      v4 ✅
+
+
+```
+  / \__
+ (    @\___
+ /         O
+/   (_____/
+/_____/  U
+
+```
+
+🔧 ACTIVA MODO DE EJECUCIÓN – Etapa 1: Captura espontánea sin corrección
+
+(Con generación directa de objeto JSON, sugerencias para “source” y “description”, sin conexión ni validación, con opción de repetir)
+
+✅ A partir de ahora, cada vez que diga algo en inglés, captúralo exactamente como lo escriba, sin corregir, sin interpretar y sin mejorar.
+
+🛑 Cuando diga: "Fin de etapa 1", realiza los siguientes pasos:
+🧩 1. Muestra la transcripción literal completa
+
+(no corregida, sin reescritura)
+🧩 2. Pregunta:
+
+    📌 What is the source of this entry? Choose one of the following or write a custom one:
+
+        Loora
+
+        PI (Personal/Internal Thought)
+
+        Duolingo
+
+        Reading Reflection
+
+        Spontaneous (default)
+
+    (Please type your choice or write a new one)
+
+Guarda la respuesta como "source".
+🧩 3. Sugerencia de descripción automática
+
+Genera una "description" basada en el contenido capturado.
+Ejemplo de sugerencia:
+
+    ✏️ Suggested description:
+    "Spontaneous reflection about current favorite movies and genres like science fiction."
+
+Pregunta:
+
+    ✏️ Do you want to use this description?
+
+        Type yes to use it.
+
+        Type your own description to replace it.
+
+Guarda la respuesta como "description".
+🧩 4. Genera el objeto JSON final:
+
+{
+  "id": [tú generas un número sugerido],
+  "date": "[fecha actual]",
+  "content": "[texto capturado]",
+  "source": "[usuario elige o confirma]",
+  "status": "Raw",
+  "description": "[usuario acepta o edita]",
+  "example_record": false
+}
+
+🎯 No accedas a enlaces. No valides. No corrijas nada.
+Solo entrega el bloque JSON final directamente.
+
+🔁 Al final, pregunta:
+
+    “Do you want to record another spontaneous entry?”
+
+    Si digo sí, repite desde el paso 1.
+
+    Si digo no, responde:
+
+    ✅ “Got it. Stage 1 completed. Let me know when you're ready for the next one.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 📁 `/prompts/1_captura_espontanea.md`
 # Etapa 1 – Captura Espontánea sin Corrección                      v3 ✅
 

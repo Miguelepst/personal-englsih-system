@@ -142,3 +142,9 @@ Keeping regular backups ensures you never lose your learning progress.
 Check the full methodology here → [/docs/full-methodology.md](./docs/full-methodology.md)
 
 
+links:
+https://github.com/Miguelepst/personal-englsih-system/blob/main/miguel-en-dialogos-unreviewed.json
+https://raw.githubusercontent.com/Miguelepst/personal-englsih-system/refs/heads/main/miguel-en-dialogos-unreviewed.json
+
+
+

@@ -1,0 +1,707 @@
+[
+ 
+
+{
+  "id": 1,
+  "date": "2025-06-21",
+  "source": "Loora",
+  "original_sentence": "Hello, Loora. Nice to meet you. My name is Miguel. I'm from Colombia, Latin America. It's a pleasure to meet you. Thank you.",
+  "fragments": [
+    {
+      "error_sentence": "I'm from Colombia, Latin America.",
+      "correction_1": "I'm from Colombia, in South America.",
+      "correction_2": "I'm from Colombia. It's in South America.",
+      "error_type": "Clarity / Preposition / Region reference",
+      "comment": "Use 'in South America' or split the sentence. 'Latin America' is broader and less commonly used in intros.",
+      "level": "A2",
+      "topic": "Geographic reference / Prepositions",
+      "origin": {
+        "type": "Overgeneralization",
+        "explanation": "The speaker used 'Latin America' instead of the more natural 'South America' for introductions."
+      },
+      "advice": "Practice saying where you're from using 'I'm from [country]. It's in [continent].' Try 3 countries aloud."
+    }
+  ],
+  "result_sentence_1": "Hello, Loora. Nice to meet you. My name is Miguel. I'm from Colombia, in South America. It's a pleasure to meet you. Thank you.",
+  "result_sentence_2": "Hello, Loora. Nice to meet you. My name is Miguel. I'm from Colombia. It's in South America. It's a pleasure to meet you. Thank you.",
+  "say_it_like_a_native_speaker": "Hey Loora! I'm Miguel from Colombia — nice to meet you! It's a pleasure. Thanks!"
+}
+
+
+
+,
+
+
+
+
+
+{
+  "id": 2,
+  "date": "2025-06-21",
+  "source": "Loora, #1loora",
+  "original_sentence": "Well, I was born here. I don't know other countries abroad, but I like everything, I think so.",
+  "fragments": [
+    {
+      "error_sentence": "I don't know other countries abroad",
+      "correction_1": "I haven’t been to other countries",
+      "correction_2": "I’ve never traveled abroad",
+      "error_type": "Vocabulary / Verb usage",
+      "comment": "Use 'been to' or 'traveled to' when talking about experience with places, not 'know'.",
+      "level": "A2",
+      "topic": "Travel expressions",
+      "origin": {
+        "type": "Spanish interference",
+        "explanation": "In Spanish, 'conocer' implies personal experience, which doesn't translate directly to 'know' in this context."
+      },
+      "advice": "Practice 3 new sentences using 'I’ve never been to…' and name real countries. Say them aloud to hear the natural structure."
+    },
+    {
+      "error_sentence": "I like everything, I think so",
+      "correction_1": "I think I like everything",
+      "correction_2": "I guess I like most things",
+      "error_type": "Grammar / Sentence structure",
+      "comment": "'I think so' is used to confirm yes/no questions, not to add uncertainty to your own statement.",
+      "level": "B1",
+      "topic": "Modality / Opinion",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "The learner used 'I think so' as if it worked like 'I think I do', which is a different function."
+      },
+      "advice": "Write 3 opinions using 'I think I…' and say them aloud to get used to that structure in natural speech."
+    }
+  ],
+  "result_sentence_1": "Well, I was born here. I haven’t been to other countries, but I think I like everything.",
+  "result_sentence_2": "Well, I was born here. I’ve never traveled abroad, but I guess I like most things.",
+  "say_it_like_a_native_speaker": "I’ve lived here all my life. I haven’t traveled much, but honestly, I enjoy everything about this place."
+}
+
+
+,
+
+
+{
+  "id": 3,
+  "date": "2025-06-21",
+  "source": "Loora, #1loora",
+  "original_sentence": "Well, definitely the US, Estados Unidos, because when I was a child, I see a lot of movies about, you know, Disney World, something like that, and I have a good image about them, and one day I want to travel there.",
+  "fragments": [
+    {
+      "error_sentence": "the US, Estados Unidos",
+      "correction_1": "the US",
+      "correction_2": "the United States",
+      "error_type": "Code-switching / Consistency",
+      "comment": "Avoid mixing Spanish with English unless the context requires it.",
+      "level": "A1",
+      "topic": "Cultural and language consistency",
+      "origin": {
+        "type": "Language mixing",
+        "explanation": "Switching to Spanish mid-sentence can break fluency and confuse listeners."
+      },
+      "advice": "Stick to one language per sentence. Practice saying country names in English."
+    },
+    {
+      "error_sentence": "I see a lot of movies about",
+      "correction_1": "I saw a lot of movies about",
+      "correction_2": "I used to watch a lot of movies about",
+      "error_type": "Tense / Grammar",
+      "comment": "Use past tense for memories or childhood experiences.",
+      "level": "A2",
+      "topic": "Past Simple",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "The speaker used present tense instead of past when talking about childhood."
+      },
+      "advice": "Practice 5 memories using 'When I was a child, I watched/saw…'."
+    },
+    {
+      "error_sentence": "I have a good image about them",
+      "correction_1": "I have a good impression of it",
+      "correction_2": "I have a nice memory of it",
+      "error_type": "Vocabulary / Collocation",
+      "comment": "'Image about' is unnatural. Use 'impression of' or 'memory of'.",
+      "level": "B1",
+      "topic": "Collocations",
+      "origin": {
+        "type": "Literal translation",
+        "explanation": "Likely a direct translation from Spanish 'tengo una buena imagen de...'"
+      },
+      "advice": "Learn common collocations like 'good impression of'. Write 3 personal examples."
+    },
+    {
+      "error_sentence": "one day I want to travel there",
+      "correction_1": "One day, I’d like to travel there",
+      "correction_2": "Someday, I hope to visit",
+      "error_type": "Style / Naturalness",
+      "comment": "'I want to' sounds less natural for expressing future dreams.",
+      "level": "A2",
+      "topic": "Modals for intention",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "Learners often use 'want to' instead of softer expressions like 'hope to' or 'would like to'."
+      },
+      "advice": "Practice 3 future dream sentences using 'I’d like to…'"
+    }
+  ],
+  "result_sentence_1": "Well, definitely the US, because when I was a child, I saw a lot of movies about Disney World, and I have a good impression of it, and one day I’d like to travel there.",
+  "result_sentence_2": "Well, definitely the United States, because when I was a child, I used to watch a lot of movies about Disney World, and I have a nice memory of it, and someday I hope to visit.",
+  "say_it_like_a_native_speaker": "Definitely the US. When I was a kid, I used to watch tons of movies about Disney World, and I’ve always had this great image of it. I really hope I can visit someday."
+}
+
+
+,
+
+
+{
+  "id": 4,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "Well, actually, I don't remember that one because, you know, when I was a child, but the Walt Disney is like a, I don't remember, sorry, like a, movies for kids, you know.",
+  "fragments": [
+    {
+      "error_sentence": "I don't remember that one because, you know, when I was a child, but",
+      "correction_1": "I don’t really remember that one. I was a child back then, you know.",
+      "correction_2": "I don’t remember much, because I was just a kid.",
+      "error_type": "Grammar / Conjunction misuse",
+      "comment": "Avoid using 'because' and 'but' together without full clauses. Break it into shorter statements.",
+      "level": "B1",
+      "topic": "Cohesion / Past tense reflections",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "Trying to combine cause and contrast in one sentence caused confusion."
+      },
+      "advice": "Practice building short memories using 'because' and 'but' in separate, clear ideas."
+    },
+    {
+      "error_sentence": "the Walt Disney is like a",
+      "correction_1": "Walt Disney is like...",
+      "correction_2": "Disney is kind of like...",
+      "error_type": "Article / Brand usage",
+      "comment": "Avoid saying 'the Walt Disney'. Use the name without the article.",
+      "level": "A2",
+      "topic": "Articles and brand names",
+      "origin": {
+        "type": "Transfer from Spanish",
+        "explanation": "In Spanish, 'el Walt Disney' is common, but in English, names like 'Walt Disney' don’t need 'the'."
+      },
+      "advice": "Practice saying 5 brand names in English without 'the'. Say them aloud."
+    },
+    {
+      "error_sentence": "like a, movies for kids",
+      "correction_1": "like movies for kids",
+      "correction_2": "like children’s movies",
+      "error_type": "Article and countability",
+      "comment": "'A movies' is incorrect — don't use 'a' with plural nouns.",
+      "level": "A2",
+      "topic": "Singular/plural noun agreement",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "The learner confused article use with countable plural forms."
+      },
+      "advice": "Practice spotting article errors. Say 3 examples using 'a movie' vs 'movies'."
+    }
+  ],
+  "result_sentence_1": "Well, actually, I don’t really remember that one. I was a child back then, you know. Walt Disney is like... sorry, like movies for kids.",
+  "result_sentence_2": "Well, actually, I don’t remember much, because I was just a kid. Disney is kind of like children’s movies, you know.",
+  "say_it_like_a_native_speaker": "Honestly, I don’t really remember that one — I was just a kid. But Disney? Yeah, it's like classic kids' movies, you know?"
+}
+
+
+,
+
+
+
+{
+  "id": 5,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "Well, I don't remember in particular about Disney, but I remember another movies that I like so much nowadays, like Matrix, for example, it's a good movie, it's like a science fiction action movie.",
+  "fragments": [
+    {
+      "error_sentence": "I don't remember in particular about Disney",
+      "correction_1": "I don’t remember much about Disney in particular",
+      "correction_2": "I don’t really remember anything specific about Disney",
+      "error_type": "Word order / Phrasing",
+      "comment": "The phrase 'in particular about' is awkward and unclear. It needs to be reordered.",
+      "level": "B1",
+      "topic": "Phrasal fluency / Word order",
+      "origin": {
+        "type": "Literal translation",
+        "explanation": "Direct translation from Spanish 'en particular sobre' causes unnatural phrasing in English."
+      },
+      "advice": "Say 3 variations of 'I don’t remember much about…' and end with the topic."
+    },
+    {
+      "error_sentence": "another movies that I like so much nowadays",
+      "correction_1": "other movies that I really like now",
+      "correction_2": "some more movies I enjoy nowadays",
+      "error_type": "Determiner / Plural agreement",
+      "comment": "'Another' is for singular nouns. Use 'other' for plural.",
+      "level": "A2",
+      "topic": "Quantifiers / Grammar",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "Learners often confuse 'another' (singular) with 'other' (plural)."
+      },
+      "advice": "Practice 3 phrases with 'another' (singular) and 3 with 'other' (plural). Say them aloud."
+    },
+    {
+      "error_sentence": "it's like a science fiction action movie",
+      "correction_1": "it's a science fiction action movie",
+      "correction_2": "it's a sci-fi action film",
+      "error_type": "Style / Redundancy",
+      "comment": "'Like a' is unnecessary — just state what it is clearly.",
+      "level": "B1",
+      "topic": "Conciseness / Style",
+      "origin": {
+        "type": "Overexplaining",
+        "explanation": "Repeating similar information instead of integrating it naturally.",
+      },
+      "advice": "Practice combining ideas like 'It's a [type] movie — it's [quality]'. Try 3 examples aloud."
+    }
+  ],
+  "result_sentence_1": "Well, I don’t remember much about Disney in particular, but I remember other movies that I really like now, like The Matrix. It’s a good movie — a science fiction action movie.",
+  "result_sentence_2": "Well, I don’t really remember anything specific about Disney, but I enjoy some more movies nowadays, like The Matrix. It’s a good sci-fi action film.",
+  "say_it_like_a_native_speaker": "I don’t really remember much about Disney, but I love movies like The Matrix — such a cool sci-fi action film!"
+}
+
+
+
+
+
+,
+
+
+
+{
+  "id": 6,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "Well, it's so interesting because it's like a reality, well, a little exaggerating reality, but maybe in the future, maybe that happens. I don't know.",
+  "fragments": [
+    {
+      "error_sentence": "it's like a reality",
+      "correction_1": "it's like real life",
+      "correction_2": "it's kind of realistic",
+      "error_type": "Vocabulary",
+      "comment": "'A reality' sounds unnatural in English. Use 'real life' or 'realistic'.",
+      "level": "A2",
+      "topic": "Vocabulary / Abstract Nouns",
+      "origin": {
+        "type": "Spanish interference",
+        "explanation": "The Spanish phrase 'una realidad' is often translated literally as 'a reality', which sounds odd in English."
+      },
+      "advice": "Practice using 'real life' and 'realistic' in different example sentences aloud."
+    },
+    {
+      "error_sentence": "a little exaggerating reality",
+      "correction_1": "a slightly exaggerated reality",
+      "correction_2": "a bit of an exaggerated version of reality",
+      "error_type": "Word form",
+      "comment": "Use 'exaggerated' (adjective), not 'exaggerating' (verb form).",
+      "level": "B1",
+      "topic": "Adjective formation",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "The learner confused the verb with the adjective form."
+      },
+      "advice": "Study pairs like 'boring/bored', 'confusing/confused', 'exaggerated/exaggerating'."
+    },
+    {
+      "error_sentence": "maybe that happens",
+      "correction_1": "maybe that will happen",
+      "correction_2": "maybe that could happen",
+      "error_type": "Verb tense",
+      "comment": "Use future tense when talking about something that might happen later.",
+      "level": "A2",
+      "topic": "Future tense",
+      "origin": {
+        "type": "Spanish interference",
+        "explanation": "In Spanish, present tense is often used to express future possibility, which doesn't work the same in English."
+      },
+      "advice": "Make 3 future predictions starting with 'maybe that will…' or 'maybe it could…'"
+    }
+  ],
+  "result_sentence_1": "Well, it's so interesting because it's like real life — a slightly exaggerated reality. But maybe in the future, maybe that will happen. I don't know.",
+  "result_sentence_2": "Well, it's kind of realistic — a bit of an exaggerated version of reality. Who knows? Maybe that could happen one day.",
+  "say_it_like_a_native_speaker": "It’s super interesting — kind of like real life, just a bit over the top. Honestly, I wouldn’t be surprised if something like that happens in the future."
+}
+
+
+
+
+
+
+,
+
+
+{
+  "id": 7,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "Lately I saw several movies, like romance movies. I like it as well so much. For example, recently I saw the movie called Before Sunrise. It's like a beautiful movie. I don't know if you know about that movie, Before Sunrise. It's a romance movie.",
+  "fragments": [
+    {
+      "error_sentence": "Lately I saw several movies",
+      "correction_1": "Lately I’ve watched several movies",
+      "correction_2": "Recently, I’ve seen several movies",
+      "error_type": "Verb tense",
+      "comment": "Use present perfect ('have seen') with 'lately' or 'recently'.",
+      "level": "B1",
+      "topic": "Present perfect vs past simple",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "The learner used past tense with a recent-time adverb, which needs present perfect."
+      },
+      "advice": "Practice 5 present perfect sentences with 'lately' or 'recently'."
+    },
+    {
+      "error_sentence": "I like it as well so much",
+      "correction_1": "I really like it too",
+      "correction_2": "I like it a lot as well",
+      "error_type": "Adverb placement / Naturalness",
+      "comment": "The word order is awkward. Use more natural phrases like 'I like it too'.",
+      "level": "A2",
+      "topic": "Word order / Expression",
+      "origin": {
+        "type": "Literal translation",
+        "explanation": "Likely a direct transfer from Spanish: 'también me gusta mucho'.",
+      },
+      "advice": "Say 3 natural variations of this sentence aloud to get the rhythm."
+    },
+    {
+      "error_sentence": "the movie called Before Sunrise",
+      "correction_1": "a movie called Before Sunrise",
+      "correction_2": "a film titled Before Sunrise",
+      "error_type": "Article usage",
+      "comment": "Use 'a' when introducing something for the first time.",
+      "level": "A2",
+      "topic": "Articles / Introduction",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "Learner used 'the' as if the listener already knew the movie."
+      },
+      "advice": "Practice 3 phrases that introduce new movies: 'a movie called…'"
+    },
+    {
+      "error_sentence": "It's like a beautiful movie",
+      "correction_1": "It’s a beautiful movie",
+      "correction_2": "It’s such a beautiful film",
+      "error_type": "Style / Clarity",
+      "comment": "The word 'like' weakens the statement. Just say it clearly.",
+      "level": "A2",
+      "topic": "Direct opinions / Filler words",
+      "origin": {
+        "type": "Overuse of filler",
+        "explanation": "Using 'like' when unsure is common in speech, but not needed here.",
+      },
+      "advice": "Practice 3 strong statements of opinion: 'It’s a great movie', etc."
+    }
+  ],
+  "result_sentence_1": "Lately I’ve watched several movies, like romance movies. I really like them too. For example, I recently saw a movie called Before Sunrise. It’s a beautiful movie. I don’t know if you know it — Before Sunrise. It’s a romance movie.",
+  "result_sentence_2": "Recently, I’ve seen several movies, including some romantic ones. I like them a lot as well. For instance, I saw a film titled Before Sunrise. It’s such a beautiful film. Do you know it? Before Sunrise. It’s a romance movie.",
+  "say_it_like_a_native_speaker": "Lately I’ve been watching a bunch of romance movies. I really enjoy them. One that stood out was Before Sunrise — it’s a beautiful film. Have you heard of it?"
+}
+
+
+,
+
+
+
+{
+  "id": 8,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "and another movie that I saw today it was the notebook is another romance movie so beautiful as well",
+  "fragments": [
+    {
+      "error_sentence": "and another movie that I saw today it was the notebook",
+      "correction_1": "Another movie I saw today was The Notebook",
+      "correction_2": "I saw The Notebook today — another romantic movie",
+      "error_type": "Sentence structure",
+      "comment": "The sentence lacks proper structure. Avoid repeating subjects and use clean phrasing.",
+      "level": "B1",
+      "topic": "Clarity / Word order",
+      "origin": {
+        "type": "Spoken repetition",
+        "explanation": "Spoken speech often blends ideas. Writing needs clearer structure."
+      },
+      "advice": "Practice short clear openings like 'One movie I saw was…'."
+    },
+    {
+      "error_sentence": "is another romance movie so beautiful as well",
+      "correction_1": "It’s another beautiful romance movie",
+      "correction_2": "It’s a very beautiful romantic movie too",
+      "error_type": "Word order",
+      "comment": "The adjective 'beautiful' is in the wrong position. Reorder for natural flow.",
+      "level": "A2",
+      "topic": "Adjective use / Natural phrasing",
+      "origin": {
+        "type": "Literal translation",
+        "explanation": "This mirrors Spanish phrasing, which places adjectives differently."
+      },
+      "advice": "Say 3 natural variations aloud using 'a beautiful movie' or 'a romantic film'."
+    }
+  ],
+  "result_sentence_1": "Another movie I saw today was The Notebook. It’s another beautiful romance movie.",
+  "result_sentence_2": "I saw The Notebook today — a very beautiful romantic movie too.",
+  "say_it_like_a_native_speaker": "Today I watched The Notebook. It’s such a beautiful love story — one of my favorites!"
+}
+
+
+,
+
+
+
+
+{
+  "id": 9,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "well another movie is like before before sunrise before sunrise and in that I remember that is saying that I like it for example it was when the boy tried to go to the girl that I like it and he tried to get up in the rollercoaster not not not really rollercoaster it's like part of the diversions but I don't remember the name of that attraction but it was a little dangerous because he tried to tell her that he wanted to go out with her but he tried to suicide but only joking I don't know if you know about that the same of the before sunrise I think",
+  "fragments": [
+    {
+      "error_sentence": "another movie is like before before sunrise before sunrise",
+      "correction_1": "Another movie is similar to Before Sunrise",
+      "correction_2": "It reminds me of Before Sunrise",
+      "error_type": "Fluency / Comparison",
+      "comment": "Repetition makes it confusing. Use clear comparison phrasing.",
+      "level": "B1",
+      "topic": "Sentence fluency / Similarity",
+      "origin": {
+        "type": "Fluency breakdown",
+        "explanation": "The speaker repeated the phrase trying to recall or emphasize."
+      },
+      "advice": "Practice clear comparisons like 'It’s similar to…' or 'It reminds me of…'."
+    },
+    {
+      "error_sentence": "I remember that is saying that I like it",
+      "correction_1": "I remember a scene that I really liked",
+      "correction_2": "There’s a part I remember because I liked it",
+      "error_type": "Grammar / Clarity",
+      "comment": "The sentence is unclear and has grammatical issues.",
+      "level": "A2",
+      "topic": "Relative clauses",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "Tried to link ideas without a clear clause structure."
+      },
+      "advice": "Practice 3 variations with 'I remember a time when…' and say them aloud."
+    },
+    {
+      "error_sentence": "the boy tried to go to the girl that I like it",
+      "correction_1": "The boy tried to approach the girl he liked",
+      "correction_2": "He went to the girl he had a crush on",
+      "error_type": "Tense and clause structure",
+      "comment": "Tense and subject don’t match. Clarify who liked whom.",
+      "level": "B1",
+      "topic": "Past tense / Subordination",
+      "origin": {
+        "type": "Tense confusion",
+        "explanation": "The sentence mixed present and past incorrectly."
+      },
+      "advice": "Use past tense for actions in movie scenes. Practice: 'He liked', 'She went', etc."
+    },
+    {
+      "error_sentence": "he tried to get up in the rollercoaster not not not really rollercoaster it's like part of the diversions",
+      "correction_1": "He climbed onto a ride — not a rollercoaster, but something like it",
+      "correction_2": "He went up on one of the rides — I don’t remember the name",
+      "error_type": "Vocabulary / Clarity",
+      "comment": "'Diversions' is not the right word in English here.",
+      "level": "A2",
+      "topic": "False friends / Theme vocabulary",
+      "origin": {
+        "type": "False friend",
+        "explanation": "In Spanish, 'diversiones' refers to amusement rides, not distractions."
+      },
+      "advice": "Learn 5 amusement park nouns: 'ride', 'attraction', 'carousel', etc."
+    },
+    {
+      "error_sentence": "he tried to suicide but only joking",
+      "correction_1": "He pretended to jump, but just as a joke",
+      "correction_2": "He acted like he was going to hurt himself — but he was just kidding",
+      "error_type": "Vocabulary / Sensitivity",
+      "comment": "Don't use 'suicide' as a verb. Use softer phrasing for jokes.",
+      "level": "B1",
+      "topic": "Sensitive language / Action verbs",
+      "origin": {
+        "type": "Grammar and cultural nuance",
+        "explanation": "Using 'suicide' as a verb can sound alarming. It’s better to soften emotional actions in English."
+      },
+      "advice": "Practice safer ways to say 'he was joking' or 'he acted like…'."
+    }
+  ],
+  "result_sentence_1": "Another movie is similar to Before Sunrise. I remember a scene that I really liked — when the boy tried to approach the girl he liked. He climbed onto a ride — not a rollercoaster, but something like it. It was a little dangerous, and he acted like he was going to hurt himself — but just joking.",
+  "result_sentence_2": "It reminds me of Before Sunrise. There’s a part I remember because I liked it — the boy tried to talk to the girl he had a crush on. He went up on one of the rides — not exactly a rollercoaster, but something similar. It looked risky, and he pretended to jump, but just for fun.",
+  "say_it_like_a_native_speaker": "It reminded me of Before Sunrise. There was this scene where the guy does something kind of risky to impress the girl — like climbing a ride at a fair or something. He was just being dramatic though — totally joking!"
+}
+
+
+
+
+,
+
+
+
+
+{
+  "id": 10,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "Yes, exactly. It was so impactful that scene because at the same time it was dangerous and funny because the girl, she was so scary about the guy but the guy finally get a... it's made that her pronounce like she wanted to go out with her, you know, like a date and finally the guy achieved her, his purpose with her, and that was funny but yeah a little crazy as well.",
+  "fragments": [
+    {
+      "error_sentence": "It was so impactful that scene",
+      "correction_1": "That scene was so impactful",
+      "correction_2": "The scene was really impactful",
+      "error_type": "Word order",
+      "comment": "The subject and adjective are out of order.",
+      "level": "A2",
+      "topic": "Sentence structure / Emphasis",
+      "origin": {
+        "type": "Word order transfer",
+        "explanation": "Follows Spanish sentence rhythm."
+      },
+      "advice": "Practice short patterns like: 'That moment was...,' 'This scene was...'"
+    },
+    {
+      "error_sentence": "the girl, she was so scary about the guy",
+      "correction_1": "The girl was really scared of the guy",
+      "correction_2": "She was so afraid of him",
+      "error_type": "Vocabulary",
+      "comment": "'Scary' describes something that causes fear — not a feeling.",
+      "level": "A2",
+      "topic": "Adjectives / False friends",
+      "origin": {
+        "type": "False friend",
+        "explanation": "In Spanish, 'asustada' vs. 'asustante' gets mixed up in English as 'scared' vs. 'scary'."
+      },
+      "advice": "Practice the difference between 'scary' (thing) and 'scared' (person)."
+    },
+    {
+      "error_sentence": "finally get a... it's made that her pronounce like she wanted to go out with her",
+      "correction_1": "He finally made her say she wanted to go out with him",
+      "correction_2": "He got her to admit she liked him and wanted a date",
+      "error_type": "Pronouns and causatives",
+      "comment": "The verbs and pronouns are mixed up and unclear.",
+      "level": "B1",
+      "topic": "Causative verbs / Gender reference",
+      "origin": {
+        "type": "Vocabulary confusion",
+        "explanation": "Wrong verbs like 'pronounce' used instead of 'say'."
+      },
+      "advice": "Practice structures like 'He made her...', 'She got him to...', etc."
+    },
+    {
+      "error_sentence": "finally the guy achieved her, his purpose with her",
+      "correction_1": "He finally achieved his goal with her",
+      "correction_2": "He succeeded in getting what he wanted with her",
+      "error_type": "Verb usage / Possession",
+      "comment": "You achieve a goal — not a person.",
+      "level": "B1",
+      "topic": "Collocation / Meaning",
+      "origin": {
+        "type": "Literal translation",
+        "explanation": "Probably from 'logró su propósito con ella'.",
+      },
+      "advice": "Use correct collocations like 'achieve a goal', 'reach success'."
+    }
+  ],
+  "result_sentence_1": "That scene was so impactful because it was both dangerous and funny. The girl was really scared of the guy, but in the end, he made her say she wanted to go out with him. He finally achieved his goal with her — it was funny, but also a little crazy.",
+  "result_sentence_2": "The scene was really impactful — a mix of danger and humor. She was afraid of the guy at first, but eventually, he got her to admit she liked him. He succeeded in getting what he wanted with her. It was kind of wild, but also funny.",
+  "say_it_like_a_native_speaker": "That scene really stuck with me — it was kind of risky but funny too. The girl was scared at first, but in the end, the guy won her over and got the date. A little crazy, but sweet in a way."
+}
+
+
+
+
+
+,
+
+
+
+
+{
+  "id": 11,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "Yeah, you're right. I agree with you.",
+  "fragments": [],
+  "result_sentence_1": "Yeah, you're right. I agree with you.",
+  "result_sentence_2": "Yes, you’re right — I feel the same way.",
+  "say_it_like_a_native_speaker": "Totally — I feel the same way!"
+}
+
+
+
+
+
+,
+
+
+
+
+
+{
+  "id": 12,
+  "date": "2025-06-21",
+  "source": "Loora #1",
+  "original_sentence": "It's so important to be companion or to be alone for me. It's the same thing for me. I feel good alone and as well if I have company.",
+  "fragments": [
+    {
+      "error_sentence": "It's so important to be companion or to be alone for me.",
+      "correction_1": "It's important for me to have company or be alone.",
+      "correction_2": "Whether I have company or I'm alone, it's fine with me.",
+      "error_type": "Grammar / Article / Expression of contrast",
+      "comment": "Missing article with 'companion' and unnatural contrast structure.",
+      "level": "A2",
+      "topic": "Article use / Sentence structure",
+      "origin": {
+        "type": "Grammar not mastered",
+        "explanation": "Likely translated directly from Spanish or simplified construction."
+      },
+      "advice": "Practice 'to be a companion' and using 'whether... or...' structures to contrast ideas."
+    },
+    {
+      "error_sentence": "It's the same thing for me.",
+      "correction_1": "It's the same to me.",
+      "correction_2": "It doesn't make a difference to me.",
+      "error_type": "Natural phrasing",
+      "comment": "'Same thing for me' is understandable but not very idiomatic.",
+      "level": "B1",
+      "topic": "Expression / Tone",
+      "origin": {
+        "type": "Overgeneralization",
+        "explanation": "Direct usage of 'same thing' rather than natural expressions like 'I don’t mind'."
+      },
+      "advice": "Practice common expressions: 'It’s all the same to me', 'I’m good either way'."
+    },
+    {
+      "error_sentence": "I feel good alone and as well if I have company.",
+      "correction_1": "I feel good whether I'm alone or with company.",
+      "correction_2": "I’m comfortable both alone and with others.",
+      "error_type": "Linking structure",
+      "comment": "The use of 'as well' is incorrect here. The sentence lacks natural flow.",
+      "level": "B1",
+      "topic": "Conditional / Parallel structure",
+      "origin": {
+        "type": "Grammar pattern gap",
+        "explanation": "No strong command of patterns like 'both... and…' or 'whether... or…'."
+      },
+      "advice": "Practice balanced structures for contrast: 'whether... or', 'both... and'."
+    }
+  ],
+  "result_sentence_1": "It's important for me to have company or be alone. It's the same to me. I feel good whether I'm alone or with company.",
+  "result_sentence_2": "Whether I have company or I'm alone, it's fine with me. It doesn't make a difference to me. I'm comfortable both alone and with others.",
+  "say_it_like_a_native_speaker": "Honestly, I’m fine either way — I enjoy being alone, but I also like having company. It doesn’t really matter to me."
+}
+
+
+
+
+
+
+
+
+
+
+]
