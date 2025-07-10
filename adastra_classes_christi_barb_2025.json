@@ -219,6 +219,247 @@
 
 
 
+{
+  "classDate": "2025-07-08",
+  "classType": "pronunciation",
+  "teacher": "Christi Barb",
+  "school": "ADASTRA",
+  "youtubeChannel": "ADASTRA SPEECH",
+  "practiceItems": [
+    {
+      "id": 1,
+      "type": "word",
+      "word": "laureate",
+      "pronunciation": "LOR-ree-yiht'",
+      "stressedVowel": "ɔr (or)",
+      "context": "The laureates are granted financial and coaching support.",
+      "vowels": "I (hit)"
+    },
+    {
+      "id": 2,
+      "type": "word",
+      "word": "shoal",
+      "pronunciation": "SHOL / SHOLZ",
+      "stressedVowel": "oʊ (home)",
+      "context": "The shoals off Nantucket Island are famous",
+      "vowels": "Ɛ (head)"
+    },
+    {
+      "id": 3,
+      "type": "word",
+      "word": "brigantine",
+      "pronunciation": "BRIH-guh-teen",
+      "stressedVowel": "I (hit)",
+      "context": "A brigantine is a type of ship",
+      "vowels": "eɪ (hey)"
+    },
+    {
+      "id": 4,
+      "type": "word",
+      "word": "chip",
+      "pronunciation": "CHIP",
+      "stressedVowel": "I (hit)",
+      "context": "Potato chip",
+      "vowels": "æ (hat)"
+    },
+    {
+      "id": 5,
+      "type": "word",
+      "word": "tooth",
+      "pronunciation": "TUTH",
+      "stressedVowel": "u (who)",
+      "context": "I chipped a tooth.",
+      "vowels": "ɑ (hot)"
+    },
+    {
+      "id": 6,
+      "type": "word",
+      "word": "truth",
+      "pronunciation": "TRUTH",
+      "stressedVowel": "u (who)",
+      "context": "What's the truth?",
+      "vowels": "u (who)"
+    },
+    {
+      "id": 7,
+      "type": "word",
+      "word": "debut (stress on 1st)",
+      "pronunciation": "DAY-byu",
+      "stressedVowel": "eɪ (hey)",
+      "context": "She made her singing debut",
+      "vowels": "ʊ (took)"
+    },
+    {
+      "id": 8,
+      "type": "word",
+      "word": "debut (stress on 2nd)",
+      "pronunciation": "day-BYU",
+      "stressedVowel": "ju (you)",
+      "context": "",
+      "vowels": "uh (up)"
+    },
+    {
+      "id": 9,
+      "type": "phrase",
+      "word": "liked, I liked‿it a lot.",
+      "pronunciation": "LAIKT' / I LAIK-dih duh laht'",
+      "stressedVowel": "aɪ (eye)",
+      "context": "",
+      "vowels": "oʊ (home)"
+    },
+    {
+      "id": 10,
+      "type": "word",
+      "word": "drought",
+      "pronunciation": "DRAUT'",
+      "stressedVowel": "aʊ (how)",
+      "context": "No water for a long time",
+      "vowels": "aɪ (eye)"
+    },
+    {
+      "id": 11,
+      "type": "word",
+      "word": "draught (UK spelling)",
+      "pronunciation": "DRAHFT'",
+      "stressedVowel": "ɑ (hot)",
+      "context": "draught beer",
+      "vowels": ""
+    },
+    {
+      "id": 12,
+      "type": "word",
+      "word": "draft (US spelling)",
+      "pronunciation": "DRAFT'",
+      "stressedVowel": "æ (hat)",
+      "context": "draft beer",
+      "vowels": "aʊ (how)"
+    },
+    {
+      "id": 13,
+      "type": "word",
+      "word": "dense",
+      "pronunciation": "DEHNTS",
+      "stressedVowel": "Ɛ (head)",
+      "context": "dense fog",
+      "vowels": "ɔɪ (boy)"
+    },
+    {
+      "id": 14,
+      "type": "word",
+      "word": "dens",
+      "pronunciation": "DEHNZ",
+      "stressedVowel": "Ɛ (head)",
+      "context": "beaver dens",
+      "vowels": "ju (you)"
+    },
+    {
+      "id": 15,
+      "type": "word",
+      "word": "homage",
+      "pronunciation": "AH-mihj",
+      "stressedVowel": "ɑ (hot)",
+      "context": "bowed in homage to the king",
+      "vowels": "ɝ (her)"
+    },
+    {
+      "id": 16,
+      "type": "word",
+      "word": "homage",
+      "pronunciation": "HAH-mihj",
+      "stressedVowel": "ɑ (hot)",
+      "context": "",
+      "vowels": "/ɑr/ (are)"
+    },
+    {
+      "id": 17,
+      "type": "word",
+      "word": "homage",
+      "pronunciation": "o-MAZH",
+      "stressedVowel": "ɑ (hot)",
+      "context": "",
+      "vowels": "/Ɛr/ (air)"
+    },
+    {
+      "id": 18,
+      "type": "word",
+      "word": "waste, waist",
+      "pronunciation": "WAYST'",
+      "stressedVowel": "eɪ (hey)",
+      "context": "waste not, want not",
+      "vowels": "/ɪr/ (here)"
+    },
+    {
+      "id": 19,
+      "type": "word",
+      "word": "truculent",
+      "pronunciation": "TRUH-kyuh-lihnt'",
+      "stressedVowel": "uh (up)",
+      "context": "truculent criticism",
+      "vowels": "ɔr (or)"
+    },
+    {
+      "id": 20,
+      "type": "word",
+      "word": "cease",
+      "pronunciation": "SEES",
+      "stressedVowel": "i (he)",
+      "context": "cease and desist",
+      "vowels": ""
+    },
+    {
+      "id": 21,
+      "type": "word",
+      "word": "seize",
+      "pronunciation": "SEEZ",
+      "stressedVowel": "i (he)",
+      "context": "seize the day!",
+      "vowels": ""
+    },
+    {
+      "id": 22,
+      "type": "word",
+      "word": "choir",
+      "pronunciation": "KWAI-yer",
+      "stressedVowel": "aɪ (eye)",
+      "context": "She sings in the church choir.",
+      "vowels": ""
+    },
+    {
+      "id": 23,
+      "type": "word",
+      "word": "chore",
+      "pronunciation": "CHOR",
+      "stressedVowel": "ɔr (or)",
+      "context": "She finished her chore for the day.",
+      "vowels": ""
+    },
+    {
+      "id": 24,
+      "type": "word",
+      "word": "thwarted",
+      "pronunciation": "THWOR-dihd' (th+wore)",
+      "stressedVowel": "ɔr (or)",
+      "context": "His plans were thwarted.",
+      "vowels": ""
+    }
+  ],
+  "metadata": {
+    "videoUrls": [],
+    "notes": "Very active session with tricky minimal pairs and new vocabulary.",
+    "materials": ["https://docs.google.com/spreadsheets/d/1VIVW4DmIDRV6qISmIRVlUnblobueoyx50R52jkQJPrM/edit?gid=636854766#gid=636854766"]
+  },
+  "_comment": "Clase del martes: Pronunciation Practice - July 8, 2025"
+}
+
+
+
+
+
+
+,
+
+
+
 
   {
     "classDate": "2025-07-09",
