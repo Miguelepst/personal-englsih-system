@@ -10,193 +10,266 @@
         "id": 1,
         "type": "word",
         "word": "parallelogram",
-        "pronunciation": "peh-ruh-LEH-luh-gram",
+        "pronunciationVariants": [
+          "peh-ruh-LEH-luh-gram"
+        ],
         "stressedVowel": "Ɛ (head)",
-        "context": "My door is a parallelogram, because of the slope."
+        "context": "My door is a parallelogram, because of the slope.",
+        "vowels": ""
       },
       {
         "id": 2,
         "type": "word",
         "word": "Juneteenth",
-        "pronunciation": "jun-TEENTH",
+        "pronunciationVariants": [
+          "jun-TEENTH"
+        ],
         "stressedVowel": "i (he)",
-        "context": "June 19th is \"Juneteenth\""
+        "context": "June 19th is \"Juneteenth\"",
+        "vowels": ""
       },
       {
         "id": 3,
         "type": "word",
         "word": "Threatening",
-        "pronunciation": "THREH-n-neeng / THREH-neeng",
+        "pronunciationVariants": [
+          "THREH-n-neeng",
+          "THREH-neeng"
+        ],
         "stressedVowel": "Ɛ (head)",
-        "context": "He made threatening comments."
+        "context": "He made threatening comments.",
+        "vowels": ""
       },
       {
         "id": 4,
         "type": "word",
         "word": "Slaves",
-        "pronunciation": "SLAYVZ",
+        "pronunciationVariants": [
+          "SLAYVZ"
+        ],
         "stressedVowel": "eɪ (hey)",
-        "context": "The last Black slaves of the Confederacy were ordered free"
+        "context": "The last Black slaves of the Confederacy were ordered free",
+        "vowels": ""
       },
       {
         "id": 5,
         "type": "word",
         "word": "confederacy",
-        "pronunciation": "kuhn-FEH-der-uh-see",
+        "pronunciationVariants": [
+          "kuhn-FEH-der-uh-see"
+        ],
         "stressedVowel": "Ɛ (head)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "id": 6,
         "type": "word",
-        "word": "quay (option 1)",
-        "pronunciation": "KEE",
+        "word": "quay",
+        "pronunciationVariants": [
+          "KEE"
+        ],
         "stressedVowel": "i (he)",
-        "context": "They docked the ferry at the quay to let the passengers off."
+        "context": "They docked the ferry at the quay to let the passengers off.",
+        "vowels": ""
       },
       {
         "id": 7,
         "type": "word",
-        "word": "quay (option 2)",
-        "pronunciation": "KAY",
+        "word": "quay",
+        "pronunciationVariants": [
+          "KAY"
+        ],
         "stressedVowel": "eɪ (hey)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "id": 8,
         "type": "word",
-        "word": "quay (option 3)",
-        "pronunciation": "KWAY",
+        "word": "quay",
+        "pronunciationVariants": [
+          "KWAY"
+        ],
         "stressedVowel": "eɪ (hey)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "id": 9,
         "type": "word",
         "word": "Amusement",
-        "pronunciation": "uh-MYUZ-mihnt'",
+        "pronunciationVariants": [
+          "uh-MYUZ-mihnt'"
+        ],
         "stressedVowel": "ju (you)",
-        "context": "Amusement parks are busy in the summer."
+        "context": "Amusement parks are busy in the summer.",
+        "vowels": ""
       },
       {
         "id": 10,
         "type": "word",
         "word": "Brewery",
-        "pronunciation": "BRU-wer-ree",
+        "pronunciationVariants": [
+          "BRU-wer-ree"
+        ],
         "stressedVowel": "u (who)",
-        "context": "There's a good brewery near me."
+        "context": "There's a good brewery near me.",
+        "vowels": ""
       },
       {
         "id": 11,
         "type": "word",
         "word": "Choir",
-        "pronunciation": "KWAI-yer",
+        "pronunciationVariants": [
+          "KWAI-yer"
+        ],
         "stressedVowel": "aɪ (eye)",
-        "context": "She sings in the church choir."
+        "context": "She sings in the church choir.",
+        "vowels": ""
       },
       {
         "id": 12,
         "type": "word",
         "word": "Clothes / close",
-        "pronunciation": "KLOZ",
+        "pronunciationVariants": [
+          "KLOZ"
+        ],
         "stressedVowel": "oʊ (home)",
-        "context": "I bought new clothes. / Close the door."
+        "context": "I bought new clothes. / Close the door.",
+        "vowels": ""
       },
       {
         "id": 13,
         "type": "word",
-        "word": "data (option 1)",
-        "pronunciation": "DAY-duh",
+        "word": "data",
+        "pronunciationVariants": [
+          "DAY-duh"
+        ],
         "stressedVowel": "eɪ (hey)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "id": 14,
         "type": "word",
         "word": "data",
-        "pronunciation": "DAD-uh",
+        "pronunciationVariants": [
+          "DAD-uh"
+        ],
         "stressedVowel": "æ (hat)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "id": 15,
         "type": "word",
         "word": "Chorus",
-        "pronunciation": "KOR-ihs",
+        "pronunciationVariants": [
+          "KOR-ihs"
+        ],
         "stressedVowel": "ɔr (or)",
-        "context": "We awoke to a chorus of birdsong."
+        "context": "We awoke to a chorus of birdsong.",
+        "vowels": ""
       },
       {
         "id": 16,
         "type": "word",
         "word": "bird",
-        "pronunciation": "BERD'",
+        "pronunciationVariants": [
+          "BERD'"
+        ],
         "stressedVowel": "ɝ (her)",
-        "context": "https://news.cornell.edu/stories/2022/04/merlin-bird-id-app-identifies-more-450-bird-species-sound"
+        "context": "https://news.cornell.edu/stories/2022/04/merlin-bird-id-app-identifies-more-450-bird-species-sound",
+        "vowels": ""
       },
       {
         "id": 17,
         "type": "word",
         "word": "song",
-        "pronunciation": "SAHNG",
+        "pronunciationVariants": [
+          "SAHNG"
+        ],
         "stressedVowel": "ɑ (hot)",
-        "context": "Sing a song"
+        "context": "Sing a song",
+        "vowels": ""
       },
       {
         "id": 18,
         "type": "word",
         "word": "son / sun",
-        "pronunciation": "SUHN",
+        "pronunciationVariants": [
+          "SUHN"
+        ],
         "stressedVowel": "Ə, ˄ (up)",
-        "context": "My son got sunburned"
+        "context": "My son got sunburned",
+        "vowels": ""
       },
       {
         "id": 19,
         "type": "word",
         "word": "sung",
-        "pronunciation": "SUHNG",
+        "pronunciationVariants": [
+          "SUHNG"
+        ],
         "stressedVowel": "Ə, ˄ (up)",
-        "context": "My son sung a song"
+        "context": "My son sung a song",
+        "vowels": ""
       },
       {
         "id": 20,
         "type": "word",
         "word": "sunk",
-        "pronunciation": "SUHNGK'",
+        "pronunciationVariants": [
+          "SUHNGK'"
+        ],
         "stressedVowel": "Ə, ˄ (up)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "id": 21,
         "type": "word",
-        "word": "strength (option 1)",
-        "pronunciation": "STRAYNGTH",
+        "word": "strength",
+        "pronunciationVariants": [
+          "STRAYNGTH"
+        ],
         "stressedVowel": "eɪ (hey)",
-        "context": "Strength training"
+        "context": "Strength training",
+        "vowels": ""
       },
       {
         "id": 22,
         "type": "word",
-        "word": "strength (option 2)",
-        "pronunciation": "STREHNTH",
+        "word": "strength",
+        "pronunciationVariants": [
+          "STREHNTH"
+        ],
         "stressedVowel": "Ɛ (head)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "id": 23,
         "type": "word",
         "word": "strengthen",
-        "pronunciation": "STRAYNG-thihn",
+        "pronunciationVariants": [
+          "STRAYNG-thihn"
+        ],
         "stressedVowel": "eɪ (hey)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "id": 24,
         "type": "word",
         "word": "strengthening",
-        "pronunciation": "STRAYNG-thihn-neeng",
+        "pronunciationVariants": [
+          "STRAYNG-thihn-neeng"
+        ],
         "stressedVowel": "eɪ (hey)",
-        "context": ""
+        "context": "",
+        "vowels": ""
       },
       {
         "_comment": "Faltan agregar más palabras aquí después de la clase del 24"
@@ -214,249 +287,305 @@
 
 
 
+
+,
+
+
+
+
+
+  {
+    "classDate": "2025-07-08",
+    "classType": "pronunciation",
+    "teacher": "Christi Barb",
+    "school": "ADASTRA",
+    "youtubeChannel": "ADASTRA SPEECH",
+    "practiceItems": [
+      {
+        "id": 1,
+        "type": "word",
+        "word": "laureate",
+        "pronunciationVariants": [
+          "LOR-ree-yiht'"
+        ],
+        "stressedVowel": "ɔr (or)",
+        "context": "The laureates are granted financial and coaching support.",
+        "vowels": "I (hit)"
+      },
+      {
+        "id": 2,
+        "type": "word",
+        "word": "shoal",
+        "pronunciationVariants": [
+          "SHOL",
+          "SHOLZ"
+        ],
+        "stressedVowel": "oʊ (home)",
+        "context": "The shoals off Nantucket Island are famous",
+        "vowels": "Ɛ (head)"
+      },
+      {
+        "id": 3,
+        "type": "word",
+        "word": "brigantine",
+        "pronunciationVariants": [
+          "BRIH-guh-teen"
+        ],
+        "stressedVowel": "I (hit)",
+        "context": "A brigantine is a type of ship",
+        "vowels": "eɪ (hey)"
+      },
+      {
+        "id": 4,
+        "type": "word",
+        "word": "chip",
+        "pronunciationVariants": [
+          "CHIP"
+        ],
+        "stressedVowel": "I (hit)",
+        "context": "Potato chip",
+        "vowels": "æ (hat)"
+      },
+      {
+        "id": 5,
+        "type": "word",
+        "word": "tooth",
+        "pronunciationVariants": [
+          "TUTH"
+        ],
+        "stressedVowel": "u (who)",
+        "context": "I chipped a tooth.",
+        "vowels": "ɑ (hot)"
+      },
+      {
+        "id": 6,
+        "type": "word",
+        "word": "truth",
+        "pronunciationVariants": [
+          "TRUTH"
+        ],
+        "stressedVowel": "u (who)",
+        "context": "What's the truth?",
+        "vowels": "u (who)"
+      },
+      {
+        "id": 7,
+        "type": "word",
+        "word": "debut (stress on 1st)",
+        "pronunciationVariants": [
+          "DAY-byu"
+        ],
+        "stressedVowel": "eɪ (hey)",
+        "context": "She made her singing debut",
+        "vowels": "ʊ (took)"
+      },
+      {
+        "id": 8,
+        "type": "word",
+        "word": "debut (stress on 2nd)",
+        "pronunciationVariants": [
+          "day-BYU"
+        ],
+        "stressedVowel": "ju (you)",
+        "context": "",
+        "vowels": "uh (up)"
+      },
+      {
+        "id": 9,
+        "type": "phrase",
+        "word": "liked, I liked‿it a lot.",
+        "pronunciationVariants": [
+          "LAIKT'",
+          "I LAIK-dih duh laht'"
+        ],
+        "stressedVowel": "aɪ (eye)",
+        "context": "",
+        "vowels": "oʊ (home)"
+      },
+      {
+        "id": 10,
+        "type": "word",
+        "word": "drought",
+        "pronunciationVariants": [
+          "DRAUT'"
+        ],
+        "stressedVowel": "aʊ (how)",
+        "context": "No water for a long time",
+        "vowels": "aɪ (eye)"
+      },
+      {
+        "id": 11,
+        "type": "word",
+        "word": "draught (UK spelling)",
+        "pronunciationVariants": [
+          "DRAHFT'"
+        ],
+        "stressedVowel": "ɑ (hot)",
+        "context": "draught beer",
+        "vowels": ""
+      },
+      {
+        "id": 12,
+        "type": "word",
+        "word": "draft (US spelling)",
+        "pronunciationVariants": [
+          "DRAFT'"
+        ],
+        "stressedVowel": "æ (hat)",
+        "context": "draft beer",
+        "vowels": "aʊ (how)"
+      },
+      {
+        "id": 13,
+        "type": "word",
+        "word": "dense",
+        "pronunciationVariants": [
+          "DEHNTS"
+        ],
+        "stressedVowel": "Ɛ (head)",
+        "context": "dense fog",
+        "vowels": "ɔɪ (boy)"
+      },
+      {
+        "id": 14,
+        "type": "word",
+        "word": "dens",
+        "pronunciationVariants": [
+          "DEHNZ"
+        ],
+        "stressedVowel": "Ɛ (head)",
+        "context": "beaver dens",
+        "vowels": "ju (you)"
+      },
+      {
+        "id": 15,
+        "type": "word",
+        "word": "homage",
+        "pronunciationVariants": [
+          "AH-mihj"
+        ],
+        "stressedVowel": "ɑ (hot)",
+        "context": "bowed in homage to the king",
+        "vowels": "ɝ (her)"
+      },
+      {
+        "id": 16,
+        "type": "word",
+        "word": "homage",
+        "pronunciationVariants": [
+          "HAH-mihj"
+        ],
+        "stressedVowel": "ɑ (hot)",
+        "context": "",
+        "vowels": "/ɑr/ (are)"
+      },
+      {
+        "id": 17,
+        "type": "word",
+        "word": "homage",
+        "pronunciationVariants": [
+          "o-MAZH"
+        ],
+        "stressedVowel": "ɑ (hot)",
+        "context": "",
+        "vowels": "/Ɛr/ (air)"
+      },
+      {
+        "id": 18,
+        "type": "word",
+        "word": "waste, waist",
+        "pronunciationVariants": [
+          "WAYST'"
+        ],
+        "stressedVowel": "eɪ (hey)",
+        "context": "waste not, want not",
+        "vowels": "/ɪr/ (here)"
+      },
+      {
+        "id": 19,
+        "type": "word",
+        "word": "truculent",
+        "pronunciationVariants": [
+          "TRUH-kyuh-lihnt'"
+        ],
+        "stressedVowel": "uh (up)",
+        "context": "truculent criticism",
+        "vowels": "ɔr (or)"
+      },
+      {
+        "id": 20,
+        "type": "word",
+        "word": "cease",
+        "pronunciationVariants": [
+          "SEES"
+        ],
+        "stressedVowel": "i (he)",
+        "context": "cease and desist",
+        "vowels": ""
+      },
+      {
+        "id": 21,
+        "type": "word",
+        "word": "seize",
+        "pronunciationVariants": [
+          "SEEZ"
+        ],
+        "stressedVowel": "i (he)",
+        "context": "seize the day!",
+        "vowels": ""
+      },
+      {
+        "id": 22,
+        "type": "word",
+        "word": "choir",
+        "pronunciationVariants": [
+          "KWAI-yer"
+        ],
+        "stressedVowel": "aɪ (eye)",
+        "context": "She sings in the church choir.",
+        "vowels": ""
+      },
+      {
+        "id": 23,
+        "type": "word",
+        "word": "chore",
+        "pronunciationVariants": [
+          "CHOR"
+        ],
+        "stressedVowel": "ɔr (or)",
+        "context": "She finished her chore for the day.",
+        "vowels": ""
+      },
+      {
+        "id": 24,
+        "type": "word",
+        "word": "thwarted",
+        "pronunciationVariants": [
+          "THWOR-dihd' (th+wore)"
+        ],
+        "stressedVowel": "ɔr (or)",
+        "context": "His plans were thwarted.",
+        "vowels": ""
+      }
+    ],
+    "metadata": {
+      "videoUrls": [],
+      "notes": "Very active session with tricky minimal pairs and new vocabulary.",
+      "materials": [
+        "https://docs.google.com/spreadsheets/d/1VIVW4DmIDRV6qISmIRVlUnblobueoyx50R52jkQJPrM/edit?gid=636854766#gid=636854766"
+      ]
+    },
+    "_comment": "Clase del martes: Pronunciation Practice - July 8, 2025"
+  }
+
+
+
+
+
+
 ,
 
 
-
-
-{
-  "classDate": "2025-07-08",
-  "classType": "pronunciation",
-  "teacher": "Christi Barb",
-  "school": "ADASTRA",
-  "youtubeChannel": "ADASTRA SPEECH",
-  "practiceItems": [
-    {
-      "id": 1,
-      "type": "word",
-      "word": "laureate",
-      "pronunciation": "LOR-ree-yiht'",
-      "stressedVowel": "ɔr (or)",
-      "context": "The laureates are granted financial and coaching support.",
-      "vowels": "I (hit)"
-    },
-    {
-      "id": 2,
-      "type": "word",
-      "word": "shoal",
-      "pronunciation": "SHOL / SHOLZ",
-      "stressedVowel": "oʊ (home)",
-      "context": "The shoals off Nantucket Island are famous",
-      "vowels": "Ɛ (head)"
-    },
-    {
-      "id": 3,
-      "type": "word",
-      "word": "brigantine",
-      "pronunciation": "BRIH-guh-teen",
-      "stressedVowel": "I (hit)",
-      "context": "A brigantine is a type of ship",
-      "vowels": "eɪ (hey)"
-    },
-    {
-      "id": 4,
-      "type": "word",
-      "word": "chip",
-      "pronunciation": "CHIP",
-      "stressedVowel": "I (hit)",
-      "context": "Potato chip",
-      "vowels": "æ (hat)"
-    },
-    {
-      "id": 5,
-      "type": "word",
-      "word": "tooth",
-      "pronunciation": "TUTH",
-      "stressedVowel": "u (who)",
-      "context": "I chipped a tooth.",
-      "vowels": "ɑ (hot)"
-    },
-    {
-      "id": 6,
-      "type": "word",
-      "word": "truth",
-      "pronunciation": "TRUTH",
-      "stressedVowel": "u (who)",
-      "context": "What's the truth?",
-      "vowels": "u (who)"
-    },
-    {
-      "id": 7,
-      "type": "word",
-      "word": "debut (stress on 1st)",
-      "pronunciation": "DAY-byu",
-      "stressedVowel": "eɪ (hey)",
-      "context": "She made her singing debut",
-      "vowels": "ʊ (took)"
-    },
-    {
-      "id": 8,
-      "type": "word",
-      "word": "debut (stress on 2nd)",
-      "pronunciation": "day-BYU",
-      "stressedVowel": "ju (you)",
-      "context": "",
-      "vowels": "uh (up)"
-    },
-    {
-      "id": 9,
-      "type": "phrase",
-      "word": "liked, I liked‿it a lot.",
-      "pronunciation": "LAIKT' / I LAIK-dih duh laht'",
-      "stressedVowel": "aɪ (eye)",
-      "context": "",
-      "vowels": "oʊ (home)"
-    },
-    {
-      "id": 10,
-      "type": "word",
-      "word": "drought",
-      "pronunciation": "DRAUT'",
-      "stressedVowel": "aʊ (how)",
-      "context": "No water for a long time",
-      "vowels": "aɪ (eye)"
-    },
-    {
-      "id": 11,
-      "type": "word",
-      "word": "draught (UK spelling)",
-      "pronunciation": "DRAHFT'",
-      "stressedVowel": "ɑ (hot)",
-      "context": "draught beer",
-      "vowels": ""
-    },
-    {
-      "id": 12,
-      "type": "word",
-      "word": "draft (US spelling)",
-      "pronunciation": "DRAFT'",
-      "stressedVowel": "æ (hat)",
-      "context": "draft beer",
-      "vowels": "aʊ (how)"
-    },
-    {
-      "id": 13,
-      "type": "word",
-      "word": "dense",
-      "pronunciation": "DEHNTS",
-      "stressedVowel": "Ɛ (head)",
-      "context": "dense fog",
-      "vowels": "ɔɪ (boy)"
-    },
-    {
-      "id": 14,
-      "type": "word",
-      "word": "dens",
-      "pronunciation": "DEHNZ",
-      "stressedVowel": "Ɛ (head)",
-      "context": "beaver dens",
-      "vowels": "ju (you)"
-    },
-    {
-      "id": 15,
-      "type": "word",
-      "word": "homage",
-      "pronunciation": "AH-mihj",
-      "stressedVowel": "ɑ (hot)",
-      "context": "bowed in homage to the king",
-      "vowels": "ɝ (her)"
-    },
-    {
-      "id": 16,
-      "type": "word",
-      "word": "homage",
-      "pronunciation": "HAH-mihj",
-      "stressedVowel": "ɑ (hot)",
-      "context": "",
-      "vowels": "/ɑr/ (are)"
-    },
-    {
-      "id": 17,
-      "type": "word",
-      "word": "homage",
-      "pronunciation": "o-MAZH",
-      "stressedVowel": "ɑ (hot)",
-      "context": "",
-      "vowels": "/Ɛr/ (air)"
-    },
-    {
-      "id": 18,
-      "type": "word",
-      "word": "waste, waist",
-      "pronunciation": "WAYST'",
-      "stressedVowel": "eɪ (hey)",
-      "context": "waste not, want not",
-      "vowels": "/ɪr/ (here)"
-    },
-    {
-      "id": 19,
-      "type": "word",
-      "word": "truculent",
-      "pronunciation": "TRUH-kyuh-lihnt'",
-      "stressedVowel": "uh (up)",
-      "context": "truculent criticism",
-      "vowels": "ɔr (or)"
-    },
-    {
-      "id": 20,
-      "type": "word",
-      "word": "cease",
-      "pronunciation": "SEES",
-      "stressedVowel": "i (he)",
-      "context": "cease and desist",
-      "vowels": ""
-    },
-    {
-      "id": 21,
-      "type": "word",
-      "word": "seize",
-      "pronunciation": "SEEZ",
-      "stressedVowel": "i (he)",
-      "context": "seize the day!",
-      "vowels": ""
-    },
-    {
-      "id": 22,
-      "type": "word",
-      "word": "choir",
-      "pronunciation": "KWAI-yer",
-      "stressedVowel": "aɪ (eye)",
-      "context": "She sings in the church choir.",
-      "vowels": ""
-    },
-    {
-      "id": 23,
-      "type": "word",
-      "word": "chore",
-      "pronunciation": "CHOR",
-      "stressedVowel": "ɔr (or)",
-      "context": "She finished her chore for the day.",
-      "vowels": ""
-    },
-    {
-      "id": 24,
-      "type": "word",
-      "word": "thwarted",
-      "pronunciation": "THWOR-dihd' (th+wore)",
-      "stressedVowel": "ɔr (or)",
-      "context": "His plans were thwarted.",
-      "vowels": ""
-    }
-  ],
-  "metadata": {
-    "videoUrls": [],
-    "notes": "Very active session with tricky minimal pairs and new vocabulary.",
-    "materials": ["https://docs.google.com/spreadsheets/d/1VIVW4DmIDRV6qISmIRVlUnblobueoyx50R52jkQJPrM/edit?gid=636854766#gid=636854766"]
-  },
-  "_comment": "Clase del martes: Pronunciation Practice - July 8, 2025"
-}
-
-
-
-
-
-
-,
 
 
 
@@ -472,77 +601,105 @@
         "id": 1,
         "type": "sentence",
         "sentence": "Let's think this through.",
-        "pronunciation": "lehs theeng this THRU",
+        "pronunciationVariants": [
+          "lehs theeng this THRU"
+        ],
         "intonationFocus": "New information"
       },
       {
         "id": 2,
         "type": "sentence",
         "sentence": "Overall, great job finishing it on time.",
-        "pronunciation": "oh-ver-AHL / GRAYt' jahb fih-nih-sheen nih dan TAIM",
+        "pronunciationVariants": [
+          "oh-ver-AHL",
+          "GRAYt' jahb fih-nih-sheen nih dan TAIM"
+        ],
         "intonationFocus": "Contrasting information"
       },
       {
         "id": 3,
         "type": "sentence",
         "sentence": "Although he had finished the project, it wasn't good.",
-        "pronunciation": "ahl-THO he had FIH-nishd' thuh PRAH-jehkt' / it' WUH-zihn gʊd'",
+        "pronunciationVariants": [
+          "ahl-THO he had FIH-nishd' thuh PRAH-jehkt'",
+          "it' WUH-zihn gʊd'"
+        ],
         "intonationFocus": "Question words"
       },
       {
         "id": 4,
         "type": "sentence",
         "sentence": "The humidity outside was unbearable, so I stayed indoors.",
-        "pronunciation": "thuh HYU-mih-dih-dee aut'-said' wuh zuhn-BAIR-uh-buhl / so wai STAY dihn-dorz",
+        "pronunciationVariants": [
+          "thuh HYU-mih-dih-dee aut'-said' wuh zuhn-BAIR-uh-buhl",
+          "so wai STAY dihn-dorz"
+        ],
         "intonationFocus": "Negative words"
       },
       {
         "id": 5,
         "type": "sentence",
         "sentence": "Keep your eyes peeled for the street.",
-        "pronunciation": "KEEP' yer raiz PEELd' fer thuh STREET'",
+        "pronunciationVariants": [
+          "KEEP' yer raiz PEELd' fer thuh STREET'"
+        ],
         "intonationFocus": "Adverbs"
       },
       {
         "id": 6,
         "type": "sentence",
         "sentence": "Say that again, please.",
-        "pronunciation": "SAY that' duh-GIHN / PLEEZ",
+        "pronunciationVariants": [
+          "SAY that' duh-GIHN",
+          "PLEEZ"
+        ],
         "intonationFocus": "Adjectives (friendly tone)"
       },
       {
         "id": 7,
         "type": "sentence",
         "sentence": "I’m gonna let it go.",
-        "pronunciation": "I'm GUH-nuh leh-diht' GO",
+        "pronunciationVariants": [
+          "I'm GUH-nuh leh-diht' GO",
+          "I'm uh-nuh leh-diht' GO"
+        ],
         "intonationFocus": ""
       },
       {
         "id": 8,
         "type": "sentence",
         "sentence": "Do you wanna come over?",
-        "pronunciation": "d’yuh WUH-nuh kuh MO-ver",
+        "pronunciationVariants": [
+          "d’yuh WUH-nuh kuh MO-ver"
+        ],
         "intonationFocus": "Yes/No question"
       },
       {
         "id": 9,
         "type": "sentence",
         "sentence": "She’s kind of busy right now.",
-        "pronunciation": "sheez kain-duh BIH-zee rait' nau",
+        "pronunciationVariants": [
+          "sheez kain-duh BIH-zee rait' nau"
+        ],
         "intonationFocus": ""
       },
       {
         "id": 10,
         "type": "sentence",
         "sentence": "Could you help me out?",
-        "pronunciation": "KʊD juh HELp' me YAUT'",
+        "pronunciationVariants": [
+          "KʊD juh HELp' me YAUT'"
+        ],
         "intonationFocus": "Yes/No question"
       },
       {
         "id": 11,
         "type": "sentence",
         "sentence": "Please, take a picture of me from another angle.",
-        "pronunciation": "PLEEZ / tay-kuh PIHK-cher ruh me fruh muh-nuh-ther RANG-guhl",
+        "pronunciationVariants": [
+          "PLEEZ",
+          "tay-kuh PIHK-cher ruh me fruh muh-nuh-ther RANG-guhl"
+        ],
         "intonationFocus": ""
       }
     ],
@@ -557,15 +714,4 @@
     },
     "_comment": "Clase del miércoles: Intonation (formato con practiceItems)"
   }
-
-
-
-
-
-
-
-
-
-
-
 ]
