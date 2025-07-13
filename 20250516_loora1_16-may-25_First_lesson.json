@@ -1,0 +1,575 @@
+{
+  "user": " miguel.mycopilot@hotmail.com",
+  "session_date": " 2025-07-05",
+  "streak_days": 25,
+  "score_diamond": 2000000000,
+  "score_star": 1100,
+  "roleplay": {
+    "completed": true,
+    "topic": " First lesson, Introduction",
+    "required_word": " pleasure",
+    "used_required_word": true,
+    "conversation": [
+      {
+        "speaker": "AI",
+        "text": "So nice to meet you, Miguel! I'm Loora, your personal Al English tutor. Talk with me for just 5 minutes a day, and see how you become a confident English speaker! So tell me, where are you from?",
+        "translation_available": true,
+        "audio_playback_available": true,
+        "slow_audio_available": false
+      },
+      {
+        "speaker": "student",
+        "text": "Hello, Loora. Nice to meet you. My name is Miguel. I'm from Colombia, Latin America. It's a pleasure to meet you. Thank you.",
+        "pronunciation_score": 78,
+        "grammar_score": 85,
+        "used_required_word": true,
+        "loora_say_it_like_a_native": "Hi Loora! I’m Miguel from Colombia. Really nice meeting you — thanks for having me!",
+        "loora_better_to_say": "Hello, Loora. It's a pleasure to meet you. I'm Miguel, and I'm from Colombia, which is in South America. Thank you!",
+        "pronunciation_format": "respelling",
+        "loora_grammar_corrections": [
+          {
+            "original": "Nice to meet you",
+            "correction": "It's nice to meet you",
+            "explanation": "Adds clarity with a full subject."
+          },
+          {
+            "original": "I'm from Colombia, Latin America",
+            "correction": "I'm from Colombia, in South America",
+            "explanation": "More specific and commonly used phrasing when talking about location."
+          }
+        ],
+        "loora_pronunciation_issues": [
+          {
+            "word": "Loora",
+            "score": 72,
+            "color": "yellow",
+            "respelling": "LOO-rah",
+            "syllables": [
+              {
+                "syllable": "Loo",
+                "sounds": [
+                  {
+                    "symbol": "/l/",
+                    "feedback": "Excellent!"
+                  },
+                  {
+                    "symbol": "/uː/",
+                    "feedback": "Clear, but could be slightly smoother."
+                  }
+                ]
+              },
+              {
+                "syllable": "rah",
+                "sounds": [
+                  {
+                    "symbol": "/r/",
+                    "feedback": "Slight distortion, try softening it."
+                  },
+                  {
+                    "symbol": "/ə/",
+                    "feedback": "Try keeping this unstressed and short."
+                  }
+                ]
+              }
+            ],
+            "audio_ai": true,
+            "audio_user": true,
+            "favorite": false,
+            "practice_attempts": 2
+          }
+        ],
+        "native_audio_available": true,
+        "microphone_practice_attempts": 2,
+        "fragments": [
+          {
+            "success_sentence": "Hello, Loora.",
+            "comment": "Simple and polite greeting. Well used.",
+            "success_type": "Greeting",
+            "confidence_level": "A1"
+          },
+          {
+            "error_sentence": "Nice to meet you.",
+            "correction_1": "It's nice to meet you.",
+            "error_type": "Grammar / Missing subject",
+            "comment": "Adding 'It's' makes the sentence complete.",
+            "error_level": "A1",
+            "error_topic": "Sentence completeness"
+          },
+          {
+            "success_sentence": "My name is Miguel.",
+            "comment": "Clear and grammatically correct introduction.",
+            "success_type": "Self-introduction",
+            "confidence_level": "A1"
+          },
+          {
+            "error_sentence": "I'm from Colombia, Latin America.",
+            "correction_1": "I'm from Colombia, in South America.",
+            "correction_2": "I'm from Colombia. It's in South America.",
+            "error_type": "Region reference",
+            "comment": "'South America' is more precise and common in spoken English.",
+            "error_level": "A2",
+            "error_topic": "Geographic clarity"
+          },
+          {
+            "success_sentence": "It's a pleasure to meet you.",
+            "comment": "Polite and well-formed sentence.",
+            "success_type": "Politeness",
+            "confidence_level": "B1"
+          },
+          {
+            "success_sentence": "Thank you.",
+            "comment": "Simple and appropriate closing.",
+            "success_type": "Courtesy",
+            "confidence_level": "A1"
+          }
+        ],
+        "result_sentence_1": "Hello, Loora. Nice to meet you. My name is Miguel. I'm from Colombia, in South America. It's a pleasure to meet you. Thank you.",
+        "result_sentence_2": "Hello, Loora. It's nice to meet you. My name is Miguel. I'm from Colombia. It's in South America. Thank you!",
+        "say_it_like_a_native_speaker": "Hey Loora! I’m Miguel from Colombia. Really glad to meet you — thanks for chatting!"
+      },
+      {
+        "speaker": "AI",
+        "text": "It's great to meet you! Colombia has such a rich culture and beautiful landscapes—what do you love most about living there?",
+        "translation_available": true,
+        "audio_playback_available": true,
+        "slow_audio_available": false
+      },
+      {
+        "speaker": "student",
+        "text": "Well, I was born here. I don't know other countries abroad, but I like everything, I think so.",
+        "pronunciation_score": 74,
+        "grammar_score": 77,
+        "used_required_word": true,
+        "loora_say_it_like_a_native": "Well, I was born here. I don't know about other countries, but I like everything here, I believe.",
+        "loora_better_to_say": "Well, I was born here. I don't know about other countries abroad, but I like everything, I think.",
+        "pronunciation_format": "respelling",
+        "loora_grammar_corrections": [
+          {
+            "original": "I don't know other countries abroad",
+            "correction": "I don't know about other countries abroad",
+            "explanation": "The verb 'know' requires 'about' when referring to general knowledge of places or things."
+          },
+          {
+            "original": "I like everything, I think so",
+            "correction": "I like everything, I think",
+            "explanation": "'I think so' means agreement with someone else’s idea. 'I think' is used when expressing your own opinion."
+          }
+        ],
+        "loora_pronunciation_issues": [
+          {
+            "word": "abroad",
+            "score": 68,
+            "color": "yellow",
+            "respelling": "uh-BRAWD",
+            "syllables": [
+              {
+                "syllable": "uh",
+                "sounds": [
+                  {
+                    "symbol": "/ə/",
+                    "feedback": "Could be clearer, try softening it."
+                  }
+                ]
+              },
+              {
+                "syllable": "brawd",
+                "sounds": [
+                  {
+                    "symbol": "/b/",
+                    "feedback": "Good clarity."
+                  },
+                  {
+                    "symbol": "/r/",
+                    "feedback": "Try a softer 'r' sound."
+                  },
+                  {
+                    "symbol": "/ɔːd/",
+                    "feedback": "Vowel could be rounder."
+                  }
+                ]
+              }
+            ],
+            "audio_ai": true,
+            "audio_user": true,
+            "favorite": false,
+            "practice_attempts": 1
+          }
+        ],
+        "native_audio_available": true,
+        "microphone_practice_attempts": 1,
+        "fragments": [
+          {
+            "success_sentence": "Well, I was born here.",
+            "comment": "Good structure and clear meaning.",
+            "success_type": "Personal background",
+            "confidence_level": "A2"
+          },
+          {
+            "error_sentence": "I don't know other countries abroad",
+            "correction_1": "I don't know about other countries abroad",
+            "error_type": "Preposition misuse",
+            "comment": "Missing 'about' which is needed to express general knowledge.",
+            "error_level": "B1",
+            "error_topic": "Prepositions"
+          },
+          {
+            "error_sentence": "I like everything, I think so",
+            "correction_1": "I like everything, I think",
+            "error_type": "Phrase misuse",
+            "comment": "'I think so' sounds unnatural here. Use 'I think' to share your own thoughts.",
+            "error_level": "A2",
+            "error_topic": "Expressions"
+          }
+        ],
+        "result_sentence_1": "Well, I was born here. I don't know about other countries abroad, but I like everything, I think.",
+        "result_sentence_2": "Well, I was born here. I don't know about other countries, but I like everything here, I believe.",
+        "say_it_like_a_native_speaker": "Honestly, I was born here and haven’t really seen other countries yet, but I like everything about living here!"
+      },
+      {
+        "speaker": "AI",
+        "text": "That's wonderful! It's great that you appreciate everything about your home. If you could visit any country someday, where would you like to go?",
+        "translation_available": true,
+        "audio_playback_available": true,
+        "slow_audio_available": false
+      },
+      {
+        "speaker": "student",
+        "text": "Well, definitely the US, Estados Unidos, because when I was a child, I see a lot of movies about, you know, Disney World, something like that, and I have a good image about them, and one day I want to travel there.",
+        "pronunciation_score": 72,
+        "grammar_score": 70,
+        "used_required_word": true,
+        "loora_say_it_like_a_native": "Well, definitely the US, the United States, because when I was a child, I saw a lot of movies about, you know, Disney World, things like that, and I have a good image of it, and one day I want to travel there.",
+        "loora_better_to_say": "Well, definitely the US, United States, because when I was a child, I saw a lot of movies about, you know, Disney World, something like that, and I have a good image of them, and one day I want to travel there.",
+        "pronunciation_format": "respelling",
+        "loora_grammar_corrections": [
+          {
+            "original": "I see a lot of movies",
+            "correction": "I saw a lot of movies",
+            "explanation": "Past tense is needed to match 'when I was a child'."
+          },
+          {
+            "original": "I have a good image about them",
+            "correction": "I have a good image of them",
+            "explanation": "The correct preposition is 'of', not 'about', when referring to impressions or mental pictures."
+          },
+          {
+            "original": "Estados Unidos",
+            "correction": "the United States",
+            "explanation": "Use the English name in English conversations."
+          }
+        ],
+        "loora_pronunciation_issues": [
+          {
+            "word": "Disney",
+            "score": 69,
+            "color": "yellow",
+            "respelling": "DIZ-nee",
+            "syllables": [
+              {
+                "syllable": "Diz",
+                "sounds": [
+                  {
+                    "symbol": "/d/",
+                    "feedback": "Sound is clear."
+                  },
+                  {
+                    "symbol": "/ɪ/",
+                    "feedback": "Slightly long. Try shortening it."
+                  },
+                  {
+                    "symbol": "/z/",
+                    "feedback": "Good."
+                  }
+                ]
+              },
+              {
+                "syllable": "nee",
+                "sounds": [
+                  {
+                    "symbol": "/n/",
+                    "feedback": "Good."
+                  },
+                  {
+                    "symbol": "/iː/",
+                    "feedback": "Try rounding the vowel slightly more."
+                  }
+                ]
+              }
+            ],
+            "audio_ai": true,
+            "audio_user": true,
+            "favorite": false,
+            "practice_attempts": 2
+          }
+        ],
+        "native_audio_available": true,
+        "microphone_practice_attempts": 2,
+        "fragments": [
+          {
+            "success_sentence": "Well, definitely the US.",
+            "comment": "Great opener to state a choice. Very natural.",
+            "success_type": "Opinion expression",
+            "confidence_level": "B1"
+          },
+          {
+            "error_sentence": "when I was a child, I see a lot of movies",
+            "correction_1": "when I was a child, I saw a lot of movies",
+            "error_type": "Verb tense",
+            "comment": "Past tense is needed after 'when I was a child'.",
+            "error_level": "A2",
+            "error_topic": "Verb forms"
+          },
+          {
+            "success_sentence": "you know, Disney World, something like that",
+            "comment": "Casual and conversational, great fluency here.",
+            "success_type": "Fluency / fillers",
+            "confidence_level": "B1"
+          },
+          {
+            "error_sentence": "I have a good image about them",
+            "correction_1": "I have a good image of them",
+            "error_type": "Preposition usage",
+            "comment": "Use 'of' when talking about mental images or impressions.",
+            "error_level": "A2",
+            "error_topic": "Prepositions"
+          },
+          {
+            "success_sentence": "and one day I want to travel there",
+            "comment": "Good structure and intention is clearly expressed.",
+            "success_type": "Future intention",
+            "confidence_level": "A2"
+          }
+        ],
+        "result_sentence_1": "Well, definitely the US, the United States, because when I was a child, I saw a lot of movies about Disney World, something like that, and I have a good image of them, and one day I want to travel there.",
+        "result_sentence_2": "Well, definitely the United States. When I was a child, I saw lots of movies about Disney World and similar places. I have a great impression of it, and I'd love to go there someday.",
+        "say_it_like_a_native_speaker": "Oh for sure, the US! I watched so many Disney movies as a kid — I’ve always dreamed of going there someday!"
+      }
+    ],
+    "practice_summary": {
+      "pronunciation_attempts": 2,
+      "grammar_reviewed": true,
+      "favorite_words": [
+        " pleasure",
+        " tutor",
+        " confident"
+      ]
+    }
+  },
+  "read_and_talk": {
+    "completed": true,
+    "topic": "Artificial Intelligence",
+    "required_word": "automation",
+    "used_required_word": false,
+    "reading": {
+      "title": "What is AI?",
+      "summary": "Artificial intelligence refers to machines that can perform tasks requiring human intelligence.",
+      "reflection_prompt": "How do you think AI will change jobs in the future?",
+      "reading_completed": true
+    },
+    "conversation": [
+      {
+        "speaker": "AI",
+        "text": "What do you think about using AI in education?"
+      },
+      {
+        "speaker": "student",
+        "text": "It will help teachers and students a lot.",
+        "pronunciation_score": 80,
+        "grammar_score": 88,
+        "used_required_word": false,
+        "loora_say_it_like_a_native": "I think it’s a great tool to support both teachers and students.",
+        "loora_better_to_say": "It’s helpful for both teachers and students.",
+        "pronunciation_format": "respelling",
+        "loora_grammar_corrections": [
+          {
+            "original": "help teachers and students",
+            "correction": "support teachers and students",
+            "explanation": "'Support' sounds more academic in this context."
+          }
+        ],
+        "loora_pronunciation_issues": [
+          {
+            "word": "education",
+            "score": 68,
+            "color": "yellow",
+            "respelling": "ed-yoo-KAY-shun",
+            "syllables": [
+              {
+                "syllable": "ed",
+                "sounds": [
+                  {
+                    "symbol": "/ɛ/",
+                    "feedback": "Sounded like 'et', try again"
+                  }
+                ]
+              },
+              {
+                "syllable": "yoo",
+                "sounds": [
+                  {
+                    "symbol": "/juː/",
+                    "feedback": "Good stress"
+                  }
+                ]
+              },
+              {
+                "syllable": "kay",
+                "sounds": [
+                  {
+                    "symbol": "/keɪ/",
+                    "feedback": "Sharp and clear!"
+                  }
+                ]
+              },
+              {
+                "syllable": "shun",
+                "sounds": [
+                  {
+                    "symbol": "/ʃən/",
+                    "feedback": "Slight nasal tone"
+                  }
+                ]
+              }
+            ],
+            "audio_ai": true,
+            "audio_user": true,
+            "favorite": true,
+            "practice_attempts": 2
+          }
+        ],
+        "native_audio_available": false,
+        "microphone_practice_attempts": 1,
+        "fragments": [
+          {
+            "success_sentence": "It will help teachers and students.",
+            "comment": "Grammatically fine, and the message is clear.",
+            "success_type": "General statement",
+            "confidence_level": "B1"
+          },
+          {
+            "error_sentence": "help teachers and students",
+            "correction_1": "support teachers and students",
+            "correction_2": "assist teachers and students",
+            "error_type": "Word choice",
+            "comment": "The verb 'help' is fine, but 'support' or 'assist' sounds more natural in academic discussions.",
+            "error_level": "B1",
+            "error_topic": "Word register",
+            "error_origin": {
+              "type": "Word appropriateness",
+              "explanation": "You used a common verb, but a more formal one fits the tone better."
+            },
+            "advice": "Practice replacing general verbs like 'help' with more precise ones in different settings."
+          }
+        ]
+      }
+    ],
+    "practice_summary": {
+      "pronunciation_attempts": 3,
+      "grammar_reviewed": true,
+      "favorite_words": [
+        "artificial",
+        "automation"
+      ]
+    }
+  },
+  "practice_zone": {
+    "unlocked": true,
+    "ongoing": true,
+    "type": "free_talk",
+    "ai_initiated": "So, what are your hobbies?",
+    "user_response_topic": "I like painting and going to the beach.",
+    "conversation": [
+      {
+        "speaker": "AI",
+        "text": "That sounds fun! What do you usually paint?"
+      },
+      {
+        "speaker": "student",
+        "text": "I paint landscapes and sometimes portraits.",
+        "pronunciation_score": 78,
+        "grammar_score": 90,
+        "loora_say_it_like_a_native": "I mostly paint landscapes, but I also enjoy portraits now and then.",
+        "loora_better_to_say": "I usually paint landscapes and sometimes do portraits.",
+        "pronunciation_format": "respelling",
+        "loora_grammar_corrections": [
+          {
+            "original": "I paint landscapes",
+            "correction": "I usually paint landscapes",
+            "explanation": "Adds frequency for more natural flow."
+          }
+        ],
+        "loora_pronunciation_issues": [
+          {
+            "word": "portraits",
+            "score": 66,
+            "color": "yellow",
+            "respelling": "POR-trits",
+            "syllables": [
+              {
+                "syllable": "POR",
+                "sounds": [
+                  {
+                    "symbol": "/pɔːr/",
+                    "feedback": "Sounded like 'poor'"
+                  }
+                ]
+              },
+              {
+                "syllable": "trits",
+                "sounds": [
+                  {
+                    "symbol": "/trɪts/",
+                    "feedback": "Final part too quick — slow down slightly"
+                  }
+                ]
+              }
+            ],
+            "audio_ai": true,
+            "audio_user": true,
+            "favorite": false,
+            "practice_attempts": 2
+          }
+        ],
+        "native_audio_available": true,
+        "microphone_practice_attempts": 1,
+        "fragments": [
+          {
+            "success_sentence": "I paint landscapes.",
+            "comment": "Well-constructed sentence with correct tense and vocabulary.",
+            "success_type": "Activity description",
+            "confidence_level": "A2"
+          },
+          {
+            "success_sentence": "and sometimes portraits.",
+            "comment": "Good addition that adds detail to your painting activity.",
+            "success_type": "Additional detail",
+            "confidence_level": "B1"
+          },
+          {
+            "error_sentence": "I paint landscapes",
+            "correction_1": "I usually paint landscapes",
+            "correction_2": "I mostly paint landscapes",
+            "error_type": "Missing frequency adverb",
+            "comment": "Adding an adverb like 'usually' or 'mostly' makes the sentence sound more natural in conversations.",
+            "error_level": "B1",
+            "error_topic": "Natural phrasing / Adverbs",
+            "error_origin": {
+              "type": "Omission",
+              "explanation": "You forgot to include a time/frequency reference that makes it sound more fluent."
+            },
+            "advice": "Practice adding frequency adverbs like 'usually', 'often', or 'sometimes' to your daily activities."
+          }
+        ]
+      }
+    ],
+    "practice_summary": {
+      "pronunciation_attempts": 2,
+      "grammar_reviewed": true,
+      "favorite_words": [
+        "portraits",
+        "beach",
+        "painting"
+      ]
+    }
+  }
+}
