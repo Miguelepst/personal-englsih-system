@@ -343,7 +343,1074 @@
         "result_sentence_1": "Well, definitely the US, the United States, because when I was a child, I saw a lot of movies about Disney World, something like that, and I have a good image of them, and one day I want to travel there.",
         "result_sentence_2": "Well, definitely the United States. When I was a child, I saw lots of movies about Disney World and similar places. I have a great impression of it, and I'd love to go there someday.",
         "say_it_like_a_native_speaker": "Oh for sure, the US! I watched so many Disney movies as a kid — I’ve always dreamed of going there someday!"
-      }
+      },
+
+
+
+
+
+        {
+      "speaker": "AI",
+      "text": "That sounds like an amazing dream! Just a small correction: instead of saying \"I see a lot of movies,\" you could say \"I saw a lot of movies\" since you're talking about your childhood. \"Saw\" is the past tense, which fits better in this context. What movies from Disney have you enjoyed the most?",
+      "translation_available": true,
+      "audio_playback_available": true,
+      "slow_audio_available": false
+    },
+    {
+      "speaker": "student",
+      "text": "Well, actually, I don't remember that one because, you know, when I was a child, but the Walt Disney is like a, I don't remember, sorry, like a, movies for kids, you know.",
+      "pronunciation_score": 66,
+      "grammar_score": 62,
+      "used_required_word": true,
+      "loora_say_it_like_a_native": "Well, actually, I don't remember that one because, you know, when I was a child. But Walt Disney makes movies for kids, you know.",
+      "loora_better_to_say": "Well, actually, I don't remember that one because, you know, when I was a child, the Walt Disney movies are like, I don't remember, sorry, like movies for kids, you know.",
+      "pronunciation_format": "respelling",
+      "loora_grammar_corrections": [
+        {
+          "original": "the Walt Disney is like a, I don't remember",
+          "correction": "Walt Disney makes movies for kids",
+          "explanation": "Avoid using 'the' with proper names like 'Walt Disney', and make the sentence clearer and grammatically correct."
+        },
+        {
+          "original": "like a, movies for kids",
+          "correction": "like movies for kids",
+          "explanation": "Remove article 'a' before plural noun 'movies'."
+        }
+      ],
+      "loora_pronunciation_issues": [
+        {
+          "word": "Disney",
+          "score": 68,
+          "color": "yellow",
+          "respelling": "DIZ-nee",
+          "syllables": [
+            {
+              "syllable": "Diz",
+              "sounds": [
+                { "symbol": "/d/", "feedback": "Slightly soft, try more definition." },
+                { "symbol": "/ɪ/", "feedback": "Acceptable." },
+                { "symbol": "/z/", "feedback": "Could be clearer." }
+              ]
+            },
+            {
+              "syllable": "nee",
+              "sounds": [
+                { "symbol": "/n/", "feedback": "Good." },
+                { "symbol": "/iː/", "feedback": "Try elongating slightly." }
+              ]
+            }
+          ],
+          "audio_ai": true,
+          "audio_user": true,
+          "favorite": false,
+          "practice_attempts": 2
+        }
+      ],
+      "native_audio_available": true,
+      "microphone_practice_attempts": 2,
+      "fragments": [
+        {
+          "success_sentence": "Well, actually, I don't remember that one because, you know, when I was a child",
+          "comment": "Good use of casual language and natural filler. Structure is almost complete.",
+          "success_type": "Fluency / Hesitation",
+          "confidence_level": "B1"
+        },
+        {
+          "error_sentence": "but the Walt Disney is like a, I don't remember",
+          "correction_1": "But Walt Disney makes movies for kids",
+          "error_type": "Grammar / Article / Verb agreement",
+          "comment": "Avoid unnecessary article and incomplete phrases. Use clearer verb structures.",
+          "error_level": "A2",
+          "error_topic": "Sentence structure"
+        },
+        {
+          "error_sentence": "like a, movies for kids",
+          "correction_1": "like movies for kids",
+          "error_type": "Grammar / Article usage",
+          "comment": "The article 'a' should not be used before a plural noun.",
+          "error_level": "A1",
+          "error_topic": "Articles"
+        }
+      ],
+      "result_sentence_1": "Well, actually, I don't remember that one because, you know, when I was a child. But Walt Disney makes movies for kids, you know.",
+      "result_sentence_2": "Well, actually, I don't remember which one, but when I was a child, I watched Disney movies — they’re mostly for kids, you know.",
+      "say_it_like_a_native_speaker": "Hmm, honestly, I don’t really remember any specific ones — I was just a kid! But I do know Disney makes a lot of fun movies for children."
+    },
+
+
+
+
+
+
+
+     {
+      "speaker": "AI",
+      "text": "No worries at all! Disney movies can be really memorable, even if we forget specific titles. Do you remember any characters or themes that stood out to you from those movies?",
+      "translation_available": true,
+      "audio_playback_available": true,
+      "slow_audio_available": false
+    },
+    {
+      "speaker": "student",
+      "text": "Well, I don't remember in particular about Disney, but I remember another movies that I like so much nowadays, like Matrix, for example, it's a good movie, it's like a science fiction action movie.",
+      "pronunciation_score": 72,
+      "grammar_score": 68,
+      "used_required_word": true,
+      "loora_say_it_like_a_native": "Say it like a native speaker\nWell, I don't remember anything in particular about Disney, but I remember other movies that I really like nowadays, such as The Matrix, for example. It's a good movie; it's a science fiction action film.",
+      "loora_better_to_say": "Well, I don't remember in particular about Disney, but I remember another movies that I like so much nowadays, like Matrix, for example, it's a good movie, it's like a science fiction action movie.",
+      "pronunciation_format": "respelling",
+      "loora_grammar_corrections": [
+        {
+          "original": "another movies",
+          "correction": "other movies",
+          "explanation": "'Another' is singular; 'movies' is plural. Use 'other' for plural nouns."
+        },
+        {
+          "original": "I like so much nowadays",
+          "correction": "I really like nowadays",
+          "explanation": "Use 'really like' for more natural emphasis; 'so much' sounds awkward here."
+        },
+        {
+          "original": "like Matrix",
+          "correction": "like The Matrix",
+          "explanation": "Movie titles in English typically include 'The' when it's part of the name."
+        },
+        {
+          "original": "it's like a science fiction action movie",
+          "correction": "it's a science fiction action movie",
+          "explanation": "Avoid 'like' here — just say what kind of movie it is."
+        }
+      ],
+      "loora_pronunciation_issues": [
+        {
+          "word": "Matrix",
+          "score": 65,
+          "color": "yellow",
+          "respelling": "MAY-triks",
+          "syllables": [
+            {
+              "syllable": "May",
+              "sounds": [
+                { "symbol": "/m/", "feedback": "Good." },
+                { "symbol": "/eɪ/", "feedback": "Could be clearer, sounds slightly flat." }
+              ]
+            },
+            {
+              "syllable": "trix",
+              "sounds": [
+                { "symbol": "/t/", "feedback": "Good." },
+                { "symbol": "/r/", "feedback": "Needs more clarity." },
+                { "symbol": "/ɪks/", "feedback": "Final sound a bit rushed." }
+              ]
+            }
+          ],
+          "audio_ai": true,
+          "audio_user": true,
+          "favorite": false,
+          "practice_attempts": 1
+        }
+      ],
+      "native_audio_available": true,
+      "microphone_practice_attempts": 1,
+      "fragments": [
+        {
+          "success_sentence": "Well, I don't remember in particular about Disney",
+          "comment": "Message is understandable, but could be smoother with 'anything in particular'.",
+          "success_type": "Topic shift / Memory",
+          "confidence_level": "B1"
+        },
+        {
+          "error_sentence": "I remember another movies",
+          "correction_1": "I remember other movies",
+          "error_type": "Grammar / Countable nouns",
+          "comment": "'Another' is incorrect with plural nouns.",
+          "error_level": "A2",
+          "error_topic": "Quantifiers"
+        },
+        {
+          "error_sentence": "that I like so much nowadays",
+          "correction_1": "that I really like nowadays",
+          "error_type": "Style / Word choice",
+          "comment": "Use 'really like' to sound more natural.",
+          "error_level": "B1",
+          "error_topic": "Tone"
+        },
+        {
+          "error_sentence": "like Matrix",
+          "correction_1": "like The Matrix",
+          "error_type": "Title format",
+          "comment": "Use the full name with 'The' for movies like The Matrix.",
+          "error_level": "A2"
+        },
+        {
+          "success_sentence": "it's a good movie, it's like a science fiction action movie",
+          "comment": "Good structure overall, though 'like' is unnecessary here.",
+          "success_type": "Opinion / Description",
+          "confidence_level": "B1"
+        }
+      ],
+      "result_sentence_1": "Well, I don't remember in particular about Disney, but I remember other movies that I really like nowadays, like The Matrix, for example. It's a good movie. It's a science fiction action film.",
+      "result_sentence_2": "I don't really recall much about Disney, but nowadays I enjoy movies like The Matrix — it's a great sci-fi action film.",
+      "say_it_like_a_native_speaker": "Hmm, nothing about Disney really stands out to me, but I love movies like The Matrix — such a cool sci-fi action flick!"
+    },
+
+
+
+
+
+    {
+         "speaker": "AI",
+         "text": "No worries at all! Disney movies can be really memorable, even if we forget specific titles. Do you remember any characters or themes that stood out to you from those movies?",
+         "translation_available": true,
+         "audio_playback_available": true,
+         "slow_audio_available": false
+       },
+       {
+         "speaker": "student",
+         "text": "Well, I don't remember in particular about Disney, but I remember another movies that I like so much nowadays, like Matrix, for example, it's a good movie, it's like a science fiction action movie.",
+         "pronunciation_score": 72,
+         "grammar_score": 68,
+         "used_required_word": true,
+         "loora_say_it_like_a_native": "Say it like a native speaker\nWell, I don't remember anything in particular about Disney, but I remember other movies that I really like nowadays, such as The Matrix, for example. It's a good movie; it's a science fiction action film.",
+         "loora_better_to_say": "Well, I don't remember in particular about Disney, but I remember another movies that I like so much nowadays, like Matrix, for example, it's a good movie, it's like a science fiction action movie.",
+         "pronunciation_format": "respelling",
+         "loora_grammar_corrections": [
+           {
+             "original": "another movies",
+             "correction": "other movies",
+             "explanation": "'Another' is singular; 'movies' is plural. Use 'other' for plural nouns."
+           },
+           {
+             "original": "I like so much nowadays",
+             "correction": "I really like nowadays",
+             "explanation": "Use 'really like' for more natural emphasis; 'so much' sounds awkward here."
+           },
+           {
+             "original": "like Matrix",
+             "correction": "like The Matrix",
+             "explanation": "Movie titles in English typically include 'The' when it's part of the name."
+           },
+           {
+             "original": "it's like a science fiction action movie",
+             "correction": "it's a science fiction action movie",
+             "explanation": "Avoid 'like' here — just say what kind of movie it is."
+           }
+         ],
+         "loora_pronunciation_issues": [
+           {
+             "word": "Matrix",
+             "score": 65,
+             "color": "yellow",
+             "respelling": "MAY-triks",
+             "syllables": [
+               {
+                 "syllable": "May",
+                 "sounds": [
+                   { "symbol": "/m/", "feedback": "Good." },
+                   { "symbol": "/eɪ/", "feedback": "Could be clearer, sounds slightly flat." }
+                 ]
+               },
+               {
+                 "syllable": "trix",
+                 "sounds": [
+                   { "symbol": "/t/", "feedback": "Good." },
+                   { "symbol": "/r/", "feedback": "Needs more clarity." },
+                   { "symbol": "/ɪks/", "feedback": "Final sound a bit rushed." }
+                 ]
+               }
+             ],
+             "audio_ai": true,
+             "audio_user": true,
+             "favorite": false,
+             "practice_attempts": 1
+           }
+         ],
+         "native_audio_available": true,
+         "microphone_practice_attempts": 1,
+         "fragments": [
+           {
+             "success_sentence": "Well, I don't remember in particular about Disney",
+             "comment": "Message is understandable, but could be smoother with 'anything in particular'.",
+             "success_type": "Topic shift / Memory",
+             "confidence_level": "B1"
+           },
+           {
+             "error_sentence": "I remember another movies",
+             "correction_1": "I remember other movies",
+             "error_type": "Grammar / Countable nouns",
+             "comment": "'Another' is incorrect with plural nouns.",
+             "error_level": "A2",
+             "error_topic": "Quantifiers"
+           },
+           {
+             "error_sentence": "that I like so much nowadays",
+             "correction_1": "that I really like nowadays",
+             "error_type": "Style / Word choice",
+             "comment": "Use 'really like' to sound more natural.",
+             "error_level": "B1",
+             "error_topic": "Tone"
+           },
+           {
+             "error_sentence": "like Matrix",
+             "correction_1": "like The Matrix",
+             "error_type": "Title format",
+             "comment": "Use the full name with 'The' for movies like The Matrix.",
+             "error_level": "A2"
+           },
+           {
+             "success_sentence": "it's a good movie, it's like a science fiction action movie",
+             "comment": "Good structure overall, though 'like' is unnecessary here.",
+             "success_type": "Opinion / Description",
+             "confidence_level": "B1"
+           }
+         ],
+         "result_sentence_1": "Well, I don't remember in particular about Disney, but I remember other movies that I really like nowadays, like The Matrix, for example. It's a good movie. It's a science fiction action film.",
+         "result_sentence_2": "I don't really recall much about Disney, but nowadays I enjoy movies like The Matrix — it's a great sci-fi action film.",
+         "say_it_like_a_native_speaker": "Hmm, nothing about Disney really stands out to me, but I love movies like The Matrix — such a cool sci-fi action flick!"
+       },
+
+
+
+
+
+
+
+
+
+    {
+      "speaker": "AI",
+      "text": "The Matrix is a fantastic choice! It really blends action and thought-provoking themes, doesn't it? What do you like most about that movie?",
+      "translation_available": true,
+      "audio_playback_available": true,
+      "slow_audio_available": false
+    },
+    {
+      "speaker": "student",
+      "text": "Well, it's so interesting because it's like a reality, well, a little exaggerating reality, but maybe in the future, maybe that happens. I don't know.",
+      "pronunciation_score": 71,
+      "grammar_score": 74,
+      "used_required_word": true,
+      "loora_say_it_like_a_native": "Well, it's so interesting because it's like a reality, albeit an exaggerated one. Perhaps something like that could happen in the future; I don't know.",
+      "loora_better_to_say": "Well, it's so interesting because it's like a reality, well, a little exaggerated reality, but maybe in the future, maybe that happens. I don't know.",
+      "pronunciation_format": "respelling",
+      "loora_grammar_corrections": [
+        {
+          "original": "a little exaggerating reality",
+          "correction": "a little exaggerated reality",
+          "explanation": "Use 'exaggerated' (adjective) to describe 'reality'; 'exaggerating' is a verb form and incorrect in this context."
+        }
+      ],
+      "loora_pronunciation_issues": [
+        {
+          "word": "it's",
+          "score": 77,
+          "respelling": "its",
+          "feedback": [
+            { "symbol": "/ih/", "feedback": "Excellent!" },
+            { "symbol": "/t/", "feedback": "Sounded like 'z'" },
+            { "symbol": "/s/", "feedback": "Excellent!" }
+          ]
+        },
+        {
+          "word": "exaggerating",
+          "score": 64,
+          "respelling": "ig-ZA-juh-ray-ting",
+          "feedback": [
+            { "syllable": "ex", "feedback": "Excellent!" },
+            { "syllable": "ag", "feedback": "Sounded like 't'" },
+            { "syllable": "ger", "feedback": "Sounded like 'g' and 'r'" },
+            { "syllable": "a", "feedback": "Excellent!" }
+          ]
+        },
+        {
+          "word": "in",
+          "score": 44,
+          "respelling": "in",
+          "feedback": [
+            { "symbol": "/ih/", "feedback": "Sounded like 'd'" },
+            { "symbol": "/n/", "feedback": "Very good" }
+          ]
+        },
+        {
+          "word": "don't",
+          "score": 65,
+          "respelling": "dohnt",
+          "feedback": [
+            { "symbol": "/d/", "feedback": "Sounded like 'v'" },
+            { "symbol": "/ow/", "feedback": "Sounded like 'ih'" },
+            { "symbol": "/n/", "feedback": "Excellent!" }
+          ]
+        },
+        {
+          "word": "know",
+          "score": 9,
+          "respelling": "noh",
+          "feedback": [
+            { "symbol": "/n/", "feedback": "Sounded like none" },
+            { "symbol": "/ow/", "feedback": "Sounded like 'f'" }
+          ]
+        }
+      ],
+      "native_audio_available": true,
+      "microphone_practice_attempts": 1,
+      "fragments": [
+        {
+          "success_sentence": "Well, it's so interesting",
+          "comment": "Good natural opening expressing opinion.",
+          "success_type": "Opinion",
+          "confidence_level": "B1"
+        },
+        {
+          "success_sentence": "because it's like a reality",
+          "comment": "Your sentence is understandable and works for an A2 level. The idea is clear. However, native speakers would usually say 'because it feels real' instead. The phrase 'like a reality' is grammatically okay, but it's not commonly used in this context. To sound more natural, try using 'real', 'real life', or 'realistic' depending on your meaning.",
+          "success_type": "Explanation",
+          "confidence_level": "A2",
+          "suggested_natural_alternative": "because it feels real"
+        },
+
+
+
+        {
+          "error_sentence": "a little exaggerating reality",
+          "correction_1": "a little exaggerated reality",
+          "error_type": "Grammar / Adjective misuse",
+          "comment": "'Exaggerating' is a verb; the adjective form 'exaggerated' is needed here.",
+          "error_level": "A2",
+          "suggested_natural_alternative": "a slightly exaggerated situation"
+        },
+        {
+          "success_sentence": "maybe in the future, maybe that happens",
+          "comment": "Repetitive but understandable. Try saying 'perhaps it could happen in the future' for smoother flow.",
+          "success_type": "Speculation",
+          "confidence_level": "B1"
+        },
+        {
+          "success_sentence": "I don't know.",
+          "comment": "Good closing — natural and humble.",
+          "success_type": "Hedge / Uncertainty",
+          "confidence_level": "A2"
+        }
+      ],
+      "result_sentence_1": "Well, it's so interesting because it's like a reality — a little exaggerated, but maybe in the future that could happen. I don't know.",
+      "result_sentence_2": "Well, it's so interesting — like an exaggerated reality. Maybe it could happen someday, who knows?",
+      "say_it_like_a_native_speaker": "It's such a cool movie because it feels kinda real — just an exaggerated version. Who knows? Maybe one day it could happen!"
+    }
+
+
+,
+    {
+      "speaker": "AI",
+      "text": "That's a fascinating perspective! The idea of blending reality with technology makes it so thought-provoking. Do you enjoy other science fiction movies, or is The Matrix your favorite?",
+      "translation_available": true,
+      "audio_playback_available": true,
+      "slow_audio_available": false
+    },
+    {
+      "speaker": "student",
+      "text": "Lately I saw several movies, like romance movies. I like it as well so much. For example, recently I saw the movie called Before Sunrise. It's like a beautiful movie. I don't know if you know about that movie, Before Sunrise. It's a romance movie.",
+      "pronunciation_score": 76,
+      "grammar_score": 72,
+      "used_required_word": true,
+      "loora_say_it_like_a_native": "Recently, I have seen several movies, including romance films. I enjoy them quite a bit as well. For example, I recently watched a movie called Before Sunrise. It's a beautiful film. I don't know if you're familiar with it, but Before Sunrise is a romance movie.",
+      "loora_better_to_say": "Lately I saw several movies, like romance movies. I like it so much as well. For example, recently I saw the movie called Before Sunrise. It's a beautiful movie. I don't know if you know about that movie, Before Sunrise. It's a romance movie.",
+      "pronunciation_format": "respelling",
+      "loora_grammar_corrections": [
+        {
+          "original": "Lately I saw",
+          "correction": "Lately I’ve seen",
+          "explanation": "Use present perfect with 'lately' to describe recent experience."
+        },
+        {
+          "original": "I like it as well so much",
+          "correction": "I like them very much as well",
+          "explanation": "Use 'them' for plural 'movies' and adjust word order for fluency."
+        },
+        {
+          "original": "It's like a beautiful movie",
+          "correction": "It's a beautiful movie",
+          "explanation": "Remove 'like' which adds unnecessary hesitation or doubt."
+        },
+        {
+          "original": "do you know about that movie",
+          "correction": "are you familiar with that movie",
+          "explanation": "More natural way to ask if someone knows a specific movie."
+        }
+      ],
+      "loora_pronunciation_issues": [
+        {
+          "word": "romance",
+          "score": 68,
+          "color": "yellow",
+          "respelling": "ROH-manss",
+          "syllables": [
+            {
+              "syllable": "ro",
+              "sounds": [
+                {
+                  "symbol": "/r/",
+                  "feedback": "Good, but could be crisper"
+                },
+                {
+                  "symbol": "/oʊ/",
+                  "feedback": "Dipthong was shortened"
+                }
+              ]
+            },
+            {
+              "syllable": "mance",
+              "sounds": [
+                {
+                  "symbol": "/m/",
+                  "feedback": "Excellent"
+                },
+                {
+                  "symbol": "/æ/",
+                  "feedback": "Could be clearer"
+                },
+                {
+                  "symbol": "/n/",
+                  "feedback": "Excellent"
+                },
+                {
+                  "symbol": "/s/",
+                  "feedback": "Slight hiss, but okay"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "native_audio_available": true,
+      "microphone_practice_attempts": 1,
+      "fragments": [
+        {
+          "error_sentence": "Lately I saw several movies",
+          "correction_1": "Lately I've seen several movies",
+          "correction_2": "Recently I’ve watched several movies",
+          "error_type": "Tense mismatch",
+          "error_level": "B1",
+          "error_topic": "Present perfect vs past",
+          "comment": "'Lately' typically pairs with present perfect ('have seen') rather than past simple ('saw').",
+          "error_origin": {
+            "type": "Tense confusion",
+            "explanation": "The speaker used the past simple with an adverb that usually calls for present perfect."
+          },
+          "advice": "Practice using 'have seen' or 'have watched' with adverbs like 'lately', 'recently', and 'so far'.",
+          "suggested_natural_alternative": "Recently, I’ve seen several movies"
+        },
+        {
+          "error_sentence": "I like it as well so much",
+          "correction_1": "I like them very much as well",
+          "correction_2": "I also enjoy them a lot",
+          "error_type": "Pronoun agreement and word order",
+          "error_level": "A2",
+          "error_topic": "Pronouns and expression clarity",
+          "comment": "Use 'them' instead of 'it' to refer to multiple movies, and rephrase for natural tone.",
+          "error_origin": {
+            "type": "Pronoun mismatch",
+            "explanation": "'Movies' is plural, so the correct pronoun is 'them'."
+          },
+          "advice": "Review singular vs plural pronouns (it vs them) and placement of 'so much', 'as well', etc.",
+          "suggested_natural_alternative": "I really enjoy those kinds of movies too"
+        },
+        {
+          "success_sentence": "For example, recently I saw the movie called Before Sunrise.",
+          "comment": "Clear sentence structure with good vocabulary for giving examples.",
+          "success_type": "Example giving",
+          "confidence_level": "B1",
+          "suggested_natural_alternative": "I recently saw a movie called *Before Sunrise*"
+        },
+        {
+          "error_sentence": "It's like a beautiful movie.",
+          "correction_1": "It's a beautiful movie.",
+          "correction_2": "It's such a beautiful film.",
+          "error_type": "Redundancy / filler",
+          "error_level": "A2",
+          "error_topic": "Word economy",
+          "comment": "Avoid 'like' here; it weakens your message unnecessarily.",
+          "error_origin": {
+            "type": "Filler usage",
+            "explanation": "'Like' is sometimes used as a filler word and doesn't add value here."
+          },
+          "advice": "Practice saying strong, clear opinions without extra filler: 'It’s a great movie', not 'It’s like a great movie'.",
+          "suggested_natural_alternative": "It’s a beautiful film"
+        },
+        {
+          "error_sentence": "I don't know if you know about that movie",
+          "correction_1": "I don’t know if you’re familiar with that movie",
+          "correction_2": "You might know it — it's called Before Sunrise",
+          "error_type": "Style and natural phrasing",
+          "error_level": "B1",
+          "error_topic": "Casual phrasing for shared knowledge",
+          "comment": "‘Know about’ is technically correct but not as smooth in casual speech.",
+          "error_origin": {
+            "type": "Direct translation",
+            "explanation": "Phrase is likely a literal translation from Spanish structure."
+          },
+          "advice": "Practice using 'familiar with', 'heard of', or 'seen' when talking about movies or cultural references.",
+          "suggested_natural_alternative": "You might know it — it’s called Before Sunrise"
+        }
+      ],
+      "result_sentence_1": "Recently, I’ve seen several movies, including romance films. I enjoy them very much. For example, I recently saw a movie called Before Sunrise. It’s a beautiful movie. You might know it — it’s a romance film.",
+      "result_sentence_2": "Lately I’ve seen a few romance movies. I really liked one called Before Sunrise. It’s such a beautiful film. You might be familiar with it.",
+      "say_it_like_a_native_speaker": "Lately I’ve been watching romance movies too — like *Before Sunrise*. It’s such a beautiful film. Have you seen it?",
+      "is_final_turn": false
+    }
+
+
+
+,
+
+
+
+
+    {
+      "speaker": "AI",
+      "text": "Before Sunrise is a beautiful film! The way it captures a deep connection between two people over just one night is really special.",
+      "translation_available": true,
+      "audio_playback_available": true,
+      "slow_audio_available": false
+    },
+    {
+      "speaker": "student",
+      "text": "and another movie that I saw today it was the notebook is another romance movie so beautiful as well",
+      "pronunciation_score": 74,
+      "grammar_score": 68,
+      "used_required_word": true,
+      "loora_say_it_like_a_native": "Another movie that I saw today is The Notebook; it's another romance film that is just as beautiful.",
+      "loora_better_to_say": "and another movie that I saw today it was the notebook is another romance movie so beautiful as well",
+      "pronunciation_format": "respelling",
+      "loora_grammar_corrections": [
+        {
+          "original": "and another movie that I saw today it was the notebook is another romance movie",
+          "correction": "Another movie that I saw today is The Notebook. It's another romance movie",
+          "explanation": "Split into two sentences and avoid unnecessary repetition for clarity."
+        },
+        {
+          "original": "so beautiful as well",
+          "correction": "just as beautiful",
+          "explanation": "Use 'just as beautiful' for natural comparison between two things."
+        }
+      ],
+      "loora_pronunciation_issues": [
+        {
+          "word": "Notebook",
+          "score": 66,
+          "color": "yellow",
+          "respelling": "NOHT-buhk",
+          "syllables": [
+            {
+              "syllable": "Note",
+              "sounds": [
+                {
+                  "symbol": "/n/",
+                  "feedback": "Good"
+                },
+                {
+                  "symbol": "/oʊ/",
+                  "feedback": "Could be smoother"
+                },
+                {
+                  "symbol": "/t/",
+                  "feedback": "Dropped or too soft"
+                }
+              ]
+            },
+            {
+              "syllable": "book",
+              "sounds": [
+                {
+                  "symbol": "/b/",
+                  "feedback": "Excellent"
+                },
+                {
+                  "symbol": "/ʊ/",
+                  "feedback": "Slightly unclear"
+                },
+                {
+                  "symbol": "/k/",
+                  "feedback": "Good"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "native_audio_available": true,
+      "microphone_practice_attempts": 1,
+      "fragments": [
+        {
+          "error_sentence": "and another movie that I saw today it was the notebook is another romance movie",
+          "correction_1": "Another movie that I saw today is The Notebook. It's another romance movie.",
+          "correction_2": "I also watched The Notebook today. It's a beautiful romance film.",
+          "error_type": "Run-on sentence / Redundancy",
+          "error_level": "A2",
+          "error_topic": "Sentence structure and repetition",
+          "comment": "Too many clauses without clear separation or punctuation.",
+          "error_origin": {
+            "type": "Sentence construction",
+            "explanation": "The sentence combines multiple ideas without proper structure or transitions."
+          },
+          "advice": "Break long ideas into shorter, clear sentences. Avoid repeating the subject unnecessarily.",
+          "suggested_natural_alternative": "Today I saw another movie — The Notebook. It's a really beautiful romance film."
+        },
+        {
+          "error_sentence": "so beautiful as well",
+          "correction_1": "just as beautiful",
+          "correction_2": "equally beautiful",
+          "error_type": "Comparative expression",
+          "error_level": "A2",
+          "error_topic": "Comparisons / Adverbs",
+          "comment": "'Just as beautiful' is more idiomatic when comparing two things.",
+          "error_origin": {
+            "type": "Direct translation or overuse",
+            "explanation": "Spanish influence might lead to overusing 'so... as well' in comparisons."
+          },
+          "advice": "Practice expressions like 'just as [adjective]' or 'equally [adjective]' to show comparisons.",
+          "suggested_natural_alternative": "just as beautiful"
+        }
+      ],
+
+      "result_sentence_1": "Another movie that I saw today is The Notebook. It's another romance film that is just as beautiful.",
+      "result_sentence_2": "Today I watched The Notebook. It's also a very beautiful romance movie.",
+      "say_it_like_a_native_speaker": "Today I watched The Notebook — another beautiful romance film. Have you seen it?",
+      "is_final_turn": false
+    }
+
+
+
+,
+
+
+
+
+    {
+      "speaker": "AI",
+      "text": "The Notebook is such a heartfelt story! The emotions and the connection between the characters really resonate with many people. Do you have a favorite scene from either of those romance movies?",
+      "translation_available": true,
+      "audio_playback_available": true,
+      "slow_audio_available": false
+    },
+    {
+      "speaker": "student",
+      "text": "well another movie is like before before sunrise before sunrise and in that I remember that is saying that I like it for example it was when the boy tried to go to the girl that I like it and he tried to get up in the rollercoaster not not not really rollercoaster it's like part of the diversions but I don't remember the name of that attraction but it was a little dangerous because he tried to tell her that he wanted to go out with her but he tried to suicide but only joking I donʼt know if you know about that the same of the before sunrise I think",
+      "pronunciation_score": 62,
+      "grammar_score": 55,
+      "used_required_word": true,
+      "loora_say_it_like_a_native": "Well, another movie is 'Before Sunrise'. In that film, I remember a scene that I really like. It's when the boy tries to approach the girl, and he attempts to get on the ride. It's not really a rollercoaster; it's part of the attractions, but I can't remember the name of that ride. It was a little dangerous because he was trying to express that he wanted to go out with her, but he jokingly pretended to commit suicide. I don't know if you're familiar with that scene from 'Before Sunrise'.",
+      "loora_better_to_say": "Well, another movie is like before, before sunrise, before sunrise. In that, I remember that it is saying that I like it. For example, it was when the boy tried to go to the girl that I like, and he tried to get up in the roller coaster. Not, not, not really a roller coaster; it's like part of the diversions, but I don't remember the name of that attraction. But it was a little dangerous because he tried to tell her that he wanted to go out with her, but he tried to commit suicide, but only joking. I don't know if you know about that; the same as before sunrise, I think.",
+      "pronunciation_format": "respelling",
+      "loora_grammar_corrections": [
+        {
+          "original": "he tried to suicide",
+          "correction": "he pretended to commit suicide",
+          "explanation": "In English, 'suicide' is a noun. You can't use it directly as a verb."
+        },
+        {
+          "original": "before before sunrise before sunrise",
+          "correction": "Before Sunrise",
+          "explanation": "Repetition and confusion—only say the movie title once."
+        },
+        {
+          "original": "diversions",
+          "correction": "attractions",
+          "explanation": "‘Diversions’ is uncommon here. ‘Attractions’ is the natural word in the context of a fair or amusement park."
+        }
+      ],
+      "loora_pronunciation_issues": [
+        {
+          "word": "suicide",
+          "score": 58,
+          "color": "orange",
+          "respelling": "SOO-uh-side",
+          "syllables": [
+            {
+              "syllable": "sui",
+              "sounds": [
+                {
+                  "symbol": "/s/",
+                  "feedback": "Good"
+                },
+                {
+                  "symbol": "/uː/",
+                  "feedback": "Unclear"
+                }
+              ]
+            },
+            {
+              "syllable": "cide",
+              "sounds": [
+                {
+                  "symbol": "/s/",
+                  "feedback": "Soft"
+                },
+                {
+                  "symbol": "/aɪd/",
+                  "feedback": "Needs clarity"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "native_audio_available": true,
+      "microphone_practice_attempts": 1,
+      "fragments": [
+        {
+          "error_sentence": "before before sunrise before sunrise",
+          "correction_1": "Before Sunrise",
+          "correction_2": "Another film is Before Sunrise.",
+          "error_type": "Repetition",
+          "error_level": "A1",
+          "error_topic": "Fluency / Sentence clarity",
+          "comment": "Repetitions and lack of structure made it hard to follow.",
+          "error_origin": {
+            "type": "Hesitation / Lack of fluency",
+            "explanation": "The speaker repeated the title several times, possibly unsure of phrasing."
+          },
+          "advice": "Practice giving movie names clearly once and adding a brief description.",
+          "suggested_natural_alternative": "Another movie I really like is Before Sunrise."
+        },
+        {
+          "error_sentence": "he tried to suicide",
+          "correction_1": "he pretended to commit suicide",
+          "correction_2": "he jokingly acted like he was going to hurt himself",
+          "error_type": "Verb misuse",
+          "error_level": "B1",
+          "error_topic": "Grammar / Word form",
+          "comment": "'Suicide' isn't a verb in English. Use 'commit suicide' instead.",
+          "error_origin": {
+            "type": "Direct translation",
+            "explanation": "Influence from Spanish or other languages that use 'suicidarse' as a verb."
+          },
+          "advice": "Memorize collocations like 'commit suicide' instead of using the noun alone.",
+          "suggested_natural_alternative": "he pretended to commit suicide, just as a joke"
+        },
+        {
+          "error_sentence": "part of the diversions",
+          "correction_1": "part of the attractions",
+          "correction_2": "one of the rides at the fair",
+          "error_type": "Word choice",
+          "error_level": "B1",
+          "error_topic": "Vocabulary / Context",
+          "comment": "'Diversions' sounds odd in this context. 'Attractions' or 'rides' would be better.",
+          "error_origin": {
+            "type": "Inaccurate synonym",
+            "explanation": "The speaker likely picked a word from translation or dictionary that's not contextually appropriate."
+          },
+          "advice": "Use 'rides' or 'attractions' when referring to amusement park activities.",
+          "suggested_natural_alternative": "one of the amusement park rides"
+        }
+      ],
+      "result_sentence_1": "Well, another movie is Before Sunrise. In that film, there's a scene I really like — the boy climbs a dangerous ride to talk to the girl. He jokingly pretends to commit suicide to express his feelings.",
+      "result_sentence_2": "Another film I enjoy is Before Sunrise. There's a memorable scene where the boy gets on a ride to impress the girl and jokes about suicide, just to get her attention.",
+      "say_it_like_a_native_speaker": "One scene I liked in Before Sunrise was when the boy climbs a ride to talk to the girl. It was risky and funny — he pretends to jump just to get her attention!",
+      "is_final_turn": false
+    }
+
+
+,
+
+
+
+
+    {
+      "speaker": "AI",
+      "text": "It sounds like you're talking about a memorable scene that really captures the intensity of young love! The mix of humor and seriousness in that moment is what makes it so impactful.",
+      "translation_available": true,
+      "audio_playback_available": true,
+      "slow_audio_available": false
+    },
+    {
+      "speaker": "student",
+      "text": "Yes, exactly. It was so impactful that scene because at the same time it was dangerous and funny because the girl, she was so scary about the guy but the guy finally get a ... it's made that her pronounce like she wanted to go out with her, you know, like a date and finally the guy achieved her, his purpose with her, and that was funny but yeah a little crazy as well.",
+      "pronunciation_score": 60,
+      "grammar_score": 52,
+      "used_required_word": true,
+      "loora_say_it_like_a_native": "Yes, exactly. That scene was so impactful because it was both dangerous and funny. The girl was so intimidated by the guy, but he finally managed to convey that he wanted to take her out on a date. In the end, he achieved his goal with her, which was funny but also a little crazy.",
+      "loora_better_to_say": "Yes, exactly. It was so impactful that scene because at the same time it was dangerous and funny because the girl was so scary about the guy but the guy finally got a ... it made her pronounce like she wanted to go out with him, you know, like a date and finally the guy achieved his purpose with her, and that was funny but yeah a little crazy as well.",
+      "pronunciation_format": "respelling",
+      "loora_grammar_corrections": [
+        {
+          "original": "the girl, she was so scary about the guy",
+          "correction": "the girl was so scared of the guy",
+          "explanation": "'Scary' describes something causing fear; 'scared' describes the person feeling fear."
+        },
+        {
+          "original": "get a ... it's made that her pronounce",
+          "correction": "he got her to say",
+          "explanation": "The phrase is unclear and ungrammatical; restructure to express intention clearly."
+        },
+        {
+          "original": "achieved her, his purpose with her",
+          "correction": "achieved his purpose with her",
+          "explanation": "Incorrect pronoun use — 'his' refers to the guy."
+        }
+      ],
+      "loora_pronunciation_issues": [
+        {
+          "word": "achieved",
+          "score": 62,
+          "color": "orange",
+          "respelling": "uh-CHEEVD",
+          "syllables": [
+            {
+              "syllable": "a",
+              "sounds": [
+                {
+                  "symbol": "/ə/",
+                  "feedback": "Slightly unclear"
+                }
+              ]
+            },
+            {
+              "syllable": "chieved",
+              "sounds": [
+                {
+                  "symbol": "/ʧ/",
+                  "feedback": "Acceptable"
+                },
+                {
+                  "symbol": "/iːv/",
+                  "feedback": "Good"
+                },
+                {
+                  "symbol": "/d/",
+                  "feedback": "Dropped"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "native_audio_available": true,
+      "microphone_practice_attempts": 1,
+      "fragments": [
+        {
+          "error_sentence": "the girl, she was so scary about the guy",
+          "correction_1": "the girl was so scared of the guy",
+          "correction_2": "she felt intimidated by the guy",
+          "error_type": "Word choice / Redundancy",
+          "error_level": "B1",
+          "error_topic": "Adjective misuse",
+          "comment": "'Scary' is the wrong adjective here. The girl isn’t frightening — she’s frightened.",
+          "error_origin": {
+            "type": "False friend",
+            "explanation": "Confusion between 'scared' and 'scary'."
+          },
+          "advice": "Remember: 'scary' describes something that causes fear; 'scared' describes the person feeling it.",
+          "suggested_natural_alternative": "the girl was really scared of the guy"
+        },
+        {
+          "error_sentence": "it's made that her pronounce like she wanted to go out with her",
+          "correction_1": "he got her to say she wanted to go out with him",
+          "correction_2": "he made her admit she wanted to date him",
+          "error_type": "Unclear phrasing / Pronoun confusion",
+          "error_level": "B1",
+          "error_topic": "Clarity / Structure",
+          "comment": "The sentence is unclear due to misused structure and pronouns.",
+          "error_origin": {
+            "type": "L1 interference",
+            "explanation": "Structure likely influenced by native language."
+          },
+          "advice": "Practice simple cause-result structures like 'he got her to [verb]'.",
+          "suggested_natural_alternative": "he made her admit she wanted to go on a date with him"
+        },
+        {
+          "error_sentence": "achieved her, his purpose with her",
+          "correction_1": "achieved his purpose with her",
+          "correction_2": "reached his goal with her",
+          "error_type": "Pronoun error / Clarity",
+          "error_level": "A2",
+          "error_topic": "Grammar / Agreement",
+          "comment": "Mixing up 'her' and 'his' confuses the sentence.",
+          "error_origin": {
+            "type": "Pronoun agreement issue",
+            "explanation": "Speaker tried to refer to the guy's intention but introduced the wrong possessive."
+          },
+          "advice": "Always double-check subject-pronoun agreement.",
+          "suggested_natural_alternative": "he accomplished what he wanted with her"
+        }
+      ],
+      "result_sentence_1": "Yes, exactly. That scene was powerful — both funny and dangerous. The girl was scared, but he finally made her understand he wanted to go on a date. In the end, he achieved his goal.",
+      "result_sentence_2": "Yes, exactly. It was such an impactful scene. The boy took a risky move that made the girl realize he wanted to be with her — it worked, and it was a bit crazy but funny too.",
+      "say_it_like_a_native_speaker": "Totally! It was funny and kind of dangerous — he made her realize he wanted a date, and it actually worked. A bit crazy, but cute too!",
+      "is_final_turn": false
+    }
+
+
+
+
+,
+
+
+
+{
+  "speaker": "AI",
+  "text": "That scene really highlights the mix of emotions that come with falling in love! It's interesting how humor can lighten even the most intense moments.",
+  "translation_available": true,
+  "audio_playback_available": true,
+  "slow_audio_available": false
+},
+{
+  "speaker": "student",
+  "text": "Yeah, you're right. I agree with you.",
+  "pronunciation_score": 89,
+  "grammar_score": 95,
+  "used_required_word": true,
+  "loora_say_it_like_a_native": "Yeah, totally! I agree with you.",
+  "loora_better_to_say": "Yeah, you're right. I totally agree with you.",
+  "pronunciation_format": "respelling",
+  "loora_grammar_corrections": [],
+  "loora_pronunciation_issues": [],
+  "native_audio_available": true,
+  "microphone_practice_attempts": 1,
+  "fragments": [
+    {
+      "success_sentence": "Yeah, you're right.",
+      "comment": "Natural confirmation and agreement with the AI's statement.",
+      "success_type": "Agreement",
+      "confidence_level": "B1",
+      "suggested_natural_alternative": "Yeah, totally!"
+    },
+    {
+      "success_sentence": "I agree with you.",
+      "comment": "Clear and polite way to show agreement.",
+      "success_type": "Social interaction",
+      "confidence_level": "A2",
+      "suggested_natural_alternative": "Totally agree with you!"
+    }
+  ]
+}
+
+
+,
+
+
+
+
+    {
+      "speaker": "AI",
+      "text": "It's wonderful that you feel comfortable both alone and with company—it shows a great balance! It was great getting to know you today, and I look forward to our next lesson tomorrow at 00:10, where I'll share your first Daily Word!",
+      "translation_available": true,
+      "audio_playback_available": true,
+      "slow_audio_available": false
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ],
     "practice_summary": {
       "pronunciation_attempts": 2,
@@ -355,6 +1422,13 @@
       ]
     }
   },
+
+
+
+
+
+
+
   "read_and_talk": {
     "completed": true,
     "topic": "Artificial Intelligence",
@@ -472,6 +1546,14 @@
       ]
     }
   },
+  
+
+
+
+
+
+
+
   "practice_zone": {
     "unlocked": true,
     "ongoing": true,
